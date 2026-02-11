@@ -2860,6 +2860,17 @@
     "year": 2020
   },
   {
+    "date": "2020-10-25",
+    "distance": 38472.7,
+    "elevation_gain": 1141.6,
+    "id": 4253933862,
+    "moving_time": 37712.0,
+    "raw_type": "Hike",
+    "start_date_local": "2020-10-25T10:02:06Z",
+    "type": "WalkHike",
+    "year": 2020
+  },
+  {
     "date": "2020-10-31",
     "distance": 28798.4,
     "elevation_gain": 209.0,
@@ -3619,6 +3630,17 @@
     "year": 2021
   },
   {
+    "date": "2021-03-12",
+    "distance": 9978.7,
+    "elevation_gain": 239.0,
+    "id": 4938581427,
+    "moving_time": 8410.0,
+    "raw_type": "Hike",
+    "start_date_local": "2021-03-12T12:30:24Z",
+    "type": "WalkHike",
+    "year": 2021
+  },
+  {
     "date": "2021-03-17",
     "distance": 15667.1,
     "elevation_gain": 387.0,
@@ -3880,6 +3902,17 @@
     "raw_type": "Ride",
     "start_date_local": "2021-05-16T08:56:48Z",
     "type": "Ride",
+    "year": 2021
+  },
+  {
+    "date": "2021-05-20",
+    "distance": 77556.2,
+    "elevation_gain": 2242.2,
+    "id": 5346494926,
+    "moving_time": 74243.0,
+    "raw_type": "Hike",
+    "start_date_local": "2021-05-20T09:02:13Z",
+    "type": "WalkHike",
     "year": 2021
   },
   {
@@ -4444,6 +4477,28 @@
     "year": 2021
   },
   {
+    "date": "2021-10-10",
+    "distance": 26555.2,
+    "elevation_gain": 974.7,
+    "id": 6106849054,
+    "moving_time": 26135.0,
+    "raw_type": "Hike",
+    "start_date_local": "2021-10-10T11:39:49Z",
+    "type": "WalkHike",
+    "year": 2021
+  },
+  {
+    "date": "2021-10-14",
+    "distance": 12187.4,
+    "elevation_gain": 497.6,
+    "id": 6113037532,
+    "moving_time": 10652.0,
+    "raw_type": "Hike",
+    "start_date_local": "2021-10-14T09:25:55Z",
+    "type": "WalkHike",
+    "year": 2021
+  },
+  {
     "date": "2021-10-18",
     "distance": 10540.8,
     "elevation_gain": 168.0,
@@ -4639,6 +4694,17 @@
     "raw_type": "VirtualRide",
     "start_date_local": "2021-12-03T07:05:22Z",
     "type": "Ride",
+    "year": 2021
+  },
+  {
+    "date": "2021-12-05",
+    "distance": 7774.2,
+    "elevation_gain": 38.8,
+    "id": 6346890887,
+    "moving_time": 5754.0,
+    "raw_type": "Hike",
+    "start_date_local": "2021-12-05T08:01:07Z",
+    "type": "WalkHike",
     "year": 2021
   },
   {
@@ -5585,6 +5651,17 @@
     "raw_type": "WeightTraining",
     "start_date_local": "2022-07-05T10:38:05Z",
     "type": "WeightTraining",
+    "year": 2022
+  },
+  {
+    "date": "2022-07-08",
+    "distance": 91045.0,
+    "elevation_gain": 3203.9,
+    "id": 7473150069,
+    "moving_time": 88515.0,
+    "raw_type": "Hike",
+    "start_date_local": "2022-07-08T07:28:42Z",
+    "type": "WalkHike",
     "year": 2022
   },
   {
@@ -7576,6 +7653,17 @@
     "raw_type": "Run",
     "start_date_local": "2023-04-09T09:41:32Z",
     "type": "Run",
+    "year": 2023
+  },
+  {
+    "date": "2023-04-10",
+    "distance": 2860.5,
+    "elevation_gain": 34.0,
+    "id": 8865902761,
+    "moving_time": 2930.0,
+    "raw_type": "Walk",
+    "start_date_local": "2023-04-10T08:38:50Z",
+    "type": "WalkHike",
     "year": 2023
   },
   {
@@ -12562,6 +12650,17 @@
     "year": 2025
   },
   {
+    "date": "2025-04-10",
+    "distance": 3690.2,
+    "elevation_gain": 90.0,
+    "id": 14138157396,
+    "moving_time": 2629.0,
+    "raw_type": "Hike",
+    "start_date_local": "2025-04-10T11:52:16Z",
+    "type": "WalkHike",
+    "year": 2025
+  },
+  {
     "date": "2025-04-12",
     "distance": 0.0,
     "elevation_gain": 0.0,
@@ -13783,6 +13882,17 @@
     "year": 2025
   },
   {
+    "date": "2025-10-15",
+    "distance": 5889.8,
+    "elevation_gain": 121.0,
+    "id": 16151737775,
+    "moving_time": 5174.0,
+    "raw_type": "Hike",
+    "start_date_local": "2025-10-15T10:22:29Z",
+    "type": "WalkHike",
+    "year": 2025
+  },
+  {
     "date": "2025-10-16",
     "distance": 0.0,
     "elevation_gain": 0.0,
@@ -14022,6 +14132,28 @@
     "raw_type": "WeightTraining",
     "start_date_local": "2025-11-19T07:41:35Z",
     "type": "WeightTraining",
+    "year": 2025
+  },
+  {
+    "date": "2025-11-20",
+    "distance": 3652.1,
+    "elevation_gain": 106.0,
+    "id": 16515163073,
+    "moving_time": 2924.0,
+    "raw_type": "Hike",
+    "start_date_local": "2025-11-20T08:07:20Z",
+    "type": "WalkHike",
+    "year": 2025
+  },
+  {
+    "date": "2025-11-21",
+    "distance": 1665.8,
+    "elevation_gain": 40.0,
+    "id": 16524167331,
+    "moving_time": 1267.0,
+    "raw_type": "Walk",
+    "start_date_local": "2025-11-21T08:26:29Z",
+    "type": "WalkHike",
     "year": 2025
   },
   {
@@ -14355,6 +14487,17 @@
     "year": 2026
   },
   {
+    "date": "2026-01-14",
+    "distance": 2461.9,
+    "elevation_gain": 71.0,
+    "id": 17046837415,
+    "moving_time": 1701.0,
+    "raw_type": "Hike",
+    "start_date_local": "2026-01-14T08:10:37Z",
+    "type": "WalkHike",
+    "year": 2026
+  },
+  {
     "date": "2026-01-15",
     "distance": 0.0,
     "elevation_gain": 0.0,
@@ -14385,6 +14528,17 @@
     "raw_type": "WeightTraining",
     "start_date_local": "2026-01-18T08:11:18Z",
     "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-01-19",
+    "distance": 2770.0,
+    "elevation_gain": 61.0,
+    "id": 17108799468,
+    "moving_time": 3553.0,
+    "raw_type": "Hike",
+    "start_date_local": "2026-01-19T15:47:34Z",
+    "type": "WalkHike",
     "year": 2026
   },
   {
@@ -14451,6 +14605,17 @@
     "raw_type": "WeightTraining",
     "start_date_local": "2026-01-29T08:33:31Z",
     "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-01-30",
+    "distance": 2561.4,
+    "elevation_gain": 55.0,
+    "id": 17227335086,
+    "moving_time": 2347.0,
+    "raw_type": "Hike",
+    "start_date_local": "2026-01-30T07:49:37Z",
+    "type": "WalkHike",
     "year": 2026
   },
   {
