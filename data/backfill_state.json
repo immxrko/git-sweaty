@@ -1,9 +1,9 @@
 {
   "activity_scope": {
     "featured_types": [
+      "Hike",
       "Ride",
       "Run",
-      "WalkHike",
       "WeightTraining"
     ],
     "group_aliases": {},
@@ -28,7 +28,7 @@
   },
   "after": 0,
   "completed": true,
-  "last_run_utc": "2026-02-11T12:16:59.745363+00:00",
+  "last_run_utc": "2026-02-11T12:29:34.587430+00:00",
   "newest_seen_ts": 1770641375,
   "next_before": null,
   "oldest_seen_ts": 1526380200,
