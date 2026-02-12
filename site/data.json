@@ -21847,7 +21847,7 @@
       }
     }
   },
-  "generated_at": "2026-02-12T15:18:16.698291+00:00",
+  "generated_at": "2026-02-12T16:55:35.669426+00:00",
   "other_bucket": "OtherSports",
   "type_meta": {
     "Hike": {
@@ -21875,7 +21875,7 @@
       "label": "Weight Training"
     },
     "Workout": {
-      "accent": "#9b5de5",
+      "accent": "#ff8a5b",
       "label": "Other Workout"
     }
   },
