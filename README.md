@@ -22,7 +22,7 @@ You will be prompted for:
 - Setup mode:
   - Local: setup script will create the fork, clone the repo, and complete the rest of the setup.
   - Online (default): no local clone; setup script will configure a fork or an existing writable repo
-- GitHub Pages custom domain (if you have one, for example `strava.example.com`)
+- GitHub Pages custom domain (if you have one, for example `yoursite.example.com`)
 - Source (`strava` or `garmin`)
 - Unit preference (`US` or `Metric`)
 - Heatmap week start (`Sunday` or `Monday`)
