@@ -5,7 +5,7 @@ Automatically generates a free, interactive dashboard updated daily on GitHub Pa
 **No coding required.**  
 
 - View the Interactive [Activity Dashboard](https://aspain.github.io/git-sweaty/)
-- Once setup is complete, this dashboard link will automatically update to your own GitHub Pages URL.
+  - Once setup is complete, this dashboard link will automatically update to your own GitHub Pages URL.
 
 
 ![Dashboard Preview](site/readme-preview-20260216b.png)
