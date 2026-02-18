@@ -964,6 +964,15 @@
       "year": 2025
     },
     {
+      "date": "2025-11-21",
+      "hour": 16,
+      "name": "Fahrt am Nachmittag",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17434134432",
+      "year": 2025
+    },
+    {
       "date": "2025-11-22",
       "hour": 16,
       "name": "Push",
@@ -988,6 +997,15 @@
       "subtype": "WeightTraining",
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/16552878261",
+      "year": 2025
+    },
+    {
+      "date": "2025-11-24",
+      "hour": 16,
+      "name": "Fahrt am Nachmittag",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17434134614",
       "year": 2025
     },
     {
@@ -1018,6 +1036,15 @@
       "year": 2025
     },
     {
+      "date": "2025-11-28",
+      "hour": 16,
+      "name": "Fahrt am Nachmittag",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17434134903",
+      "year": 2025
+    },
+    {
       "date": "2025-11-29",
       "hour": 21,
       "name": "Push",
@@ -1042,6 +1069,15 @@
       "subtype": "WeightTraining",
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/16619711443",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-01",
+      "hour": 17,
+      "name": "Fahrt am Nachmittag",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17434135303",
       "year": 2025
     },
     {
@@ -1072,6 +1108,15 @@
       "year": 2025
     },
     {
+      "date": "2025-12-05",
+      "hour": 16,
+      "name": "Fahrt am Nachmittag",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17434135651",
+      "year": 2025
+    },
+    {
       "date": "2025-12-06",
       "hour": 20,
       "name": "Push",
@@ -1099,6 +1144,15 @@
       "year": 2025
     },
     {
+      "date": "2025-12-08",
+      "hour": 18,
+      "name": "Abendradfahrt",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17434135796",
+      "year": 2025
+    },
+    {
       "date": "2025-12-09",
       "hour": 15,
       "name": "Push",
@@ -1123,6 +1177,33 @@
       "subtype": "WeightTraining",
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/16723083897",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-12",
+      "hour": 7,
+      "name": "Schwimmen am Morgen",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/17434136027",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-12",
+      "hour": 9,
+      "name": "Lauf am Morgen",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17434137008",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-12",
+      "hour": 16,
+      "name": "Fahrt am Nachmittag",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17434137166",
       "year": 2025
     },
     {
@@ -1822,6 +1903,69 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2584.0
+        },
+        "2025-11-21": {
+          "activity_ids": [
+            "17434134432"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2604.0
+        },
+        "2025-11-24": {
+          "activity_ids": [
+            "17434134614"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2674.0
+        },
+        "2025-11-28": {
+          "activity_ids": [
+            "17434134903"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2526.0
+        },
+        "2025-12-01": {
+          "activity_ids": [
+            "17434135303"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2515.0
+        },
+        "2025-12-05": {
+          "activity_ids": [
+            "17434135651"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2567.0
+        },
+        "2025-12-08": {
+          "activity_ids": [
+            "17434135796"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2616.0
+        },
+        "2025-12-12": {
+          "activity_ids": [
+            "17434137166"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2623.0
         }
       },
       "Run": {
@@ -1914,6 +2058,15 @@
           "distance": 5774.1,
           "elevation_gain": 46.4,
           "moving_time": 2951.0
+        },
+        "2025-12-12": {
+          "activity_ids": [
+            "17434137008"
+          ],
+          "count": 1,
+          "distance": 5029.1,
+          "elevation_gain": 87.4,
+          "moving_time": 2168.0
         }
       },
       "Swim": {
@@ -1952,6 +2105,15 @@
           "distance": 1525.0,
           "elevation_gain": 0.0,
           "moving_time": 4699.0
+        },
+        "2025-12-12": {
+          "activity_ids": [
+            "17434136027"
+          ],
+          "count": 1,
+          "distance": 1525.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4359.0
         }
       },
       "WeightTraining": {
@@ -3327,7 +3489,7 @@
       }
     }
   },
-  "generated_at": "2026-02-18T00:38:19.976224+00:00",
+  "generated_at": "2026-02-18T00:48:22.562850+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",

@@ -1391,6 +1391,19 @@
     "year": 2025
   },
   {
+    "date": "2025-11-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17434134432",
+    "moving_time": 2604.0,
+    "name": "Fahrt am Nachmittag",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2025-11-21T16:35:13Z",
+    "type": "Ride",
+    "year": 2025
+  },
+  {
     "date": "2025-11-22",
     "distance": 0.0,
     "elevation_gain": 0.0,
@@ -1427,6 +1440,19 @@
     "raw_type": "WeightTraining",
     "start_date_local": "2025-11-24T15:17:58Z",
     "type": "WeightTraining",
+    "year": 2025
+  },
+  {
+    "date": "2025-11-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17434134614",
+    "moving_time": 2674.0,
+    "name": "Fahrt am Nachmittag",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2025-11-24T16:04:27Z",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -1469,6 +1495,19 @@
     "year": 2025
   },
   {
+    "date": "2025-11-28",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17434134903",
+    "moving_time": 2526.0,
+    "name": "Fahrt am Nachmittag",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2025-11-28T16:54:05Z",
+    "type": "Ride",
+    "year": 2025
+  },
+  {
     "date": "2025-11-29",
     "distance": 0.0,
     "elevation_gain": 0.0,
@@ -1505,6 +1544,19 @@
     "raw_type": "WeightTraining",
     "start_date_local": "2025-12-01T15:49:04Z",
     "type": "WeightTraining",
+    "year": 2025
+  },
+  {
+    "date": "2025-12-01",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17434135303",
+    "moving_time": 2515.0,
+    "name": "Fahrt am Nachmittag",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2025-12-01T17:03:22Z",
+    "type": "Ride",
     "year": 2025
   },
   {
@@ -1547,6 +1599,19 @@
     "year": 2025
   },
   {
+    "date": "2025-12-05",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17434135651",
+    "moving_time": 2567.0,
+    "name": "Fahrt am Nachmittag",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2025-12-05T16:56:29Z",
+    "type": "Ride",
+    "year": 2025
+  },
+  {
     "date": "2025-12-06",
     "distance": 0.0,
     "elevation_gain": 0.0,
@@ -1586,6 +1651,19 @@
     "year": 2025
   },
   {
+    "date": "2025-12-08",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17434135796",
+    "moving_time": 2616.0,
+    "name": "Abendradfahrt",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2025-12-08T18:00:36Z",
+    "type": "Ride",
+    "year": 2025
+  },
+  {
     "date": "2025-12-09",
     "distance": 0.0,
     "elevation_gain": 0.0,
@@ -1622,6 +1700,45 @@
     "raw_type": "WeightTraining",
     "start_date_local": "2025-12-12T16:08:11Z",
     "type": "WeightTraining",
+    "year": 2025
+  },
+  {
+    "date": "2025-12-12",
+    "distance": 1525.0,
+    "elevation_gain": 0.0,
+    "id": "17434136027",
+    "moving_time": 4359.0,
+    "name": "Schwimmen am Morgen",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2025-12-12T07:30:54Z",
+    "type": "Swim",
+    "year": 2025
+  },
+  {
+    "date": "2025-12-12",
+    "distance": 5029.1,
+    "elevation_gain": 87.4,
+    "id": "17434137008",
+    "moving_time": 2168.0,
+    "name": "Lauf am Morgen",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2025-12-12T09:45:03Z",
+    "type": "Run",
+    "year": 2025
+  },
+  {
+    "date": "2025-12-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17434137166",
+    "moving_time": 2623.0,
+    "name": "Fahrt am Nachmittag",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2025-12-12T16:58:50Z",
+    "type": "Ride",
     "year": 2025
   },
   {

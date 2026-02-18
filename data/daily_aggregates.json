@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-18T00:38:19.967783+00:00",
+  "generated_at": "2026-02-18T00:48:22.555818+00:00",
   "years": {
     "2025": {
       "Ride": {
@@ -165,6 +165,69 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2584.0
+        },
+        "2025-11-21": {
+          "activity_ids": [
+            "17434134432"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2604.0
+        },
+        "2025-11-24": {
+          "activity_ids": [
+            "17434134614"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2674.0
+        },
+        "2025-11-28": {
+          "activity_ids": [
+            "17434134903"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2526.0
+        },
+        "2025-12-01": {
+          "activity_ids": [
+            "17434135303"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2515.0
+        },
+        "2025-12-05": {
+          "activity_ids": [
+            "17434135651"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2567.0
+        },
+        "2025-12-08": {
+          "activity_ids": [
+            "17434135796"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2616.0
+        },
+        "2025-12-12": {
+          "activity_ids": [
+            "17434137166"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2623.0
         }
       },
       "Run": {
@@ -257,6 +320,15 @@
           "distance": 5774.1,
           "elevation_gain": 46.4,
           "moving_time": 2951.0
+        },
+        "2025-12-12": {
+          "activity_ids": [
+            "17434137008"
+          ],
+          "count": 1,
+          "distance": 5029.1,
+          "elevation_gain": 87.4,
+          "moving_time": 2168.0
         }
       },
       "Swim": {
@@ -295,6 +367,15 @@
           "distance": 1525.0,
           "elevation_gain": 0.0,
           "moving_time": 4699.0
+        },
+        "2025-12-12": {
+          "activity_ids": [
+            "17434136027"
+          ],
+          "count": 1,
+          "distance": 1525.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4359.0
         }
       },
       "WeightTraining": {
