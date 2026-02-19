@@ -1736,6 +1736,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/17432307233",
       "year": 2026
+    },
+    {
+      "date": "2026-02-18",
+      "hour": 19,
+      "name": "Zwift - Make A Break For It on Whole Lotta Lava in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17442467118",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-18",
+      "hour": 20,
+      "name": "Push 2",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17443664142",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3213,6 +3231,15 @@
           "distance": 24589.3,
           "elevation_gain": 48.0,
           "moving_time": 3001.0
+        },
+        "2026-02-18": {
+          "activity_ids": [
+            "17442467118"
+          ],
+          "count": 1,
+          "distance": 21970.5,
+          "elevation_gain": 206.0,
+          "moving_time": 3011.0
         }
       },
       "WeightTraining": {
@@ -3485,11 +3512,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 5014.0
+        },
+        "2026-02-18": {
+          "activity_ids": [
+            "17443664142"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 5564.0
         }
       }
     }
   },
-  "generated_at": "2026-02-18T15:52:13.386379+00:00",
+  "generated_at": "2026-02-19T15:48:11.116453+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",

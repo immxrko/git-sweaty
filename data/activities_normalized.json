@@ -2507,5 +2507,31 @@
     "start_date_local": "2026-02-17T20:28:12Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-02-18",
+    "distance": 21970.5,
+    "elevation_gain": 206.0,
+    "id": "17442467118",
+    "moving_time": 3011.0,
+    "name": "Zwift - Make A Break For It on Whole Lotta Lava in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-02-18T19:07:11Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17443664142",
+    "moving_time": 5564.0,
+    "name": "Push 2",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-02-18T20:25:21Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
