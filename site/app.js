@@ -137,7 +137,7 @@ function setFooterLastSync(isoString) {
     footerLastSync.textContent = "";
     return;
   }
-  footerLastSync.textContent = ` • Last Sync: ${formatted}`;
+  footerLastSync.textContent = `Last Sync: ${formatted}`;
 }
 
 function isNarrowLayoutViewport() {
