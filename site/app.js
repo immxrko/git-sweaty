@@ -57,6 +57,7 @@ const stravaProfileLabel = stravaProfileLink
 const footerHostedPrefix = document.getElementById("footerHostedPrefix");
 const footerHostedLink = document.getElementById("footerHostedLink");
 const footerPoweredLabel = document.getElementById("footerPoweredLabel");
+const footerLastSync = document.getElementById("footerLastSync");
 const dashboardTitle = document.getElementById("dashboardTitle");
 const isTouch = window.matchMedia("(hover: none) and (pointer: coarse)").matches;
 const hasTouchInput = Number(window.navigator?.maxTouchPoints || 0) > 0;
@@ -115,6 +116,28 @@ function getUnitSystemFromUnits(units) {
 
 function getUnitsForSystem(system) {
   return normalizeUnits(UNIT_SYSTEM_TO_UNITS[system] || DEFAULT_UNITS);
+}
+
+function formatLastSync(isoString) {
+  if (!isoString || typeof isoString !== "string") return "";
+  const d = new Date(isoString);
+  if (Number.isNaN(d.getTime())) return "";
+  const dd = String(d.getDate()).padStart(2, "0");
+  const mm = String(d.getMonth() + 1).padStart(2, "0");
+  const yy = String(d.getFullYear()).slice(-2);
+  const hh = String(d.getHours()).padStart(2, "0");
+  const min = String(d.getMinutes()).padStart(2, "0");
+  return `${dd}.${mm}.${yy} ${hh}:${min}`;
+}
+
+function setFooterLastSync(isoString) {
+  if (!footerLastSync) return;
+  const formatted = formatLastSync(isoString);
+  if (!formatted) {
+    footerLastSync.textContent = "";
+    return;
+  }
+  footerLastSync.textContent = ` • Last Sync: ${formatted}`;
 }
 
 function isNarrowLayoutViewport() {
@@ -3894,6 +3917,7 @@ async function init() {
     profileUrl,
     sourceValue,
   );
+  setFooterLastSync(payload.generated_at);
   setDashboardTitle(sourceValue);
   TYPE_META = payload.type_meta || {};
   OTHER_BUCKET = String(payload.other_bucket || "OtherSports");
