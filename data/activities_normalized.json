@@ -2533,5 +2533,44 @@
     "start_date_local": "2026-02-18T20:25:21Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-02-20",
+    "distance": 22850.6,
+    "elevation_gain": 91.0,
+    "id": "17464088691",
+    "moving_time": 3009.0,
+    "name": "Zwift - Endurance Free Ride on Going Coastal in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-02-20T19:11:17Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-20",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17464833395",
+    "moving_time": 4539.0,
+    "name": "Pull",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-02-20T20:30:56Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17473250294",
+    "moving_time": 3418.0,
+    "name": "Legday B \u2013 Posterior Chain",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-02-21T15:10:35Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
