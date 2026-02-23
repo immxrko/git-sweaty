@@ -1781,6 +1781,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/17473250294",
       "year": 2026
+    },
+    {
+      "date": "2026-02-22",
+      "hour": 19,
+      "name": "Zwift - The Long Ride - Spiked Base Progressive VO2 on The Big Ring in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17488121236",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-22",
+      "hour": 21,
+      "name": "OK + Core",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17488694635",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3276,6 +3294,15 @@
           "distance": 22850.6,
           "elevation_gain": 91.0,
           "moving_time": 3009.0
+        },
+        "2026-02-22": {
+          "activity_ids": [
+            "17488121236"
+          ],
+          "count": 1,
+          "distance": 52471.0,
+          "elevation_gain": 275.0,
+          "moving_time": 6909.0
         }
       },
       "WeightTraining": {
@@ -3575,11 +3602,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3418.0
+        },
+        "2026-02-22": {
+          "activity_ids": [
+            "17488694635"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3726.0
         }
       }
     }
   },
-  "generated_at": "2026-02-22T15:24:26.369254+00:00",
+  "generated_at": "2026-02-23T15:54:05.148073+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
