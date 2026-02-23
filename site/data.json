@@ -1799,6 +1799,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/17488694635",
       "year": 2026
+    },
+    {
+      "date": "2026-02-23",
+      "hour": 20,
+      "name": "Zwift - Endurance Free Ride on Beach Island Loop in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17498579352",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3303,6 +3312,15 @@
           "distance": 52471.0,
           "elevation_gain": 275.0,
           "moving_time": 6909.0
+        },
+        "2026-02-23": {
+          "activity_ids": [
+            "17498579352"
+          ],
+          "count": 1,
+          "distance": 20179.3,
+          "elevation_gain": 84.0,
+          "moving_time": 3012.0
         }
       },
       "WeightTraining": {
@@ -3615,7 +3633,7 @@
       }
     }
   },
-  "generated_at": "2026-02-23T15:54:05.148073+00:00",
+  "generated_at": "2026-02-23T22:17:53.489080+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
