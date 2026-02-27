@@ -2650,5 +2650,18 @@
     "start_date_local": "2026-02-26T14:11:33Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-02-27",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17538898801",
+    "moving_time": 3427.0,
+    "name": "Pull",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-02-27T09:22:06Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
