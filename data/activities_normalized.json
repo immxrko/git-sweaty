@@ -2663,5 +2663,18 @@
     "start_date_local": "2026-02-27T09:22:06Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-02-27",
+    "distance": 19033.4,
+    "elevation_gain": 335.0,
+    "id": "17544341365",
+    "moving_time": 3028.0,
+    "name": "Zwift - Step-Down Intervals",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-02-27T18:47:28Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
