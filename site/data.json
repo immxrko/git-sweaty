@@ -1862,6 +1862,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/17556884377",
       "year": 2026
+    },
+    {
+      "date": "2026-03-01",
+      "hour": 13,
+      "name": "Zwift - The Long Ride - Extended Tempo",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17566550490",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3393,6 +3402,15 @@
           "distance": 19033.4,
           "elevation_gain": 335.0,
           "moving_time": 3028.0
+        },
+        "2026-03-01": {
+          "activity_ids": [
+            "17566550490"
+          ],
+          "count": 1,
+          "distance": 62935.8,
+          "elevation_gain": 381.0,
+          "moving_time": 8117.0
         }
       },
       "WeightTraining": {
@@ -3741,7 +3759,7 @@
       }
     }
   },
-  "generated_at": "2026-03-01T15:23:01.812089+00:00",
+  "generated_at": "2026-03-02T15:42:10.787886+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
