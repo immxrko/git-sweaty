@@ -2728,5 +2728,31 @@
     "start_date_local": "2026-03-02T19:55:05Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17592265969",
+    "moving_time": 6247.0,
+    "name": "Legday A \u2013 Front Chain",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-03T18:43:46Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-04",
+    "distance": 25107.9,
+    "elevation_gain": 66.0,
+    "id": "17601870807",
+    "moving_time": 3018.0,
+    "name": "Zwift - Tempo To Sprints",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-04T15:47:00Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
