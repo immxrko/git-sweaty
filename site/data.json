@@ -1916,6 +1916,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/17604127273",
       "year": 2026
+    },
+    {
+      "date": "2026-03-05",
+      "hour": 19,
+      "name": "Pull",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17617018897",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3845,11 +3854,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3661.0
+        },
+        "2026-03-05": {
+          "activity_ids": [
+            "17617018897"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 5039.0
         }
       }
     }
   },
-  "generated_at": "2026-03-05T15:51:04.808767+00:00",
+  "generated_at": "2026-03-06T15:36:54.908975+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
