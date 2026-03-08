@@ -1934,6 +1934,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17626266612",
       "year": 2026
+    },
+    {
+      "date": "2026-03-07",
+      "hour": 17,
+      "name": "Legday B \u2013 Posterior Chain",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17639279089",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3881,11 +3890,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 5039.0
+        },
+        "2026-03-07": {
+          "activity_ids": [
+            "17639279089"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3497.0
         }
       }
     }
   },
-  "generated_at": "2026-03-07T15:22:58.806490+00:00",
+  "generated_at": "2026-03-08T15:23:33.112413+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
