@@ -1943,6 +1943,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/17639279089",
       "year": 2026
+    },
+    {
+      "date": "2026-03-08",
+      "hour": 15,
+      "name": "Zwift - The Long Ride - SST Long",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17651756806",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3510,6 +3519,15 @@
           "distance": 23464.1,
           "elevation_gain": 181.0,
           "moving_time": 3009.0
+        },
+        "2026-03-08": {
+          "activity_ids": [
+            "17651756806"
+          ],
+          "count": 1,
+          "distance": 64228.0,
+          "elevation_gain": 418.0,
+          "moving_time": 8939.0
         }
       },
       "WeightTraining": {
@@ -3903,7 +3921,7 @@
       }
     }
   },
-  "generated_at": "2026-03-08T15:23:33.112413+00:00",
+  "generated_at": "2026-03-09T15:58:20.274897+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",

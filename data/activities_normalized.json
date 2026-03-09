@@ -2806,5 +2806,18 @@
     "start_date_local": "2026-03-07T17:39:54Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-08",
+    "distance": 64228.0,
+    "elevation_gain": 418.0,
+    "id": "17651756806",
+    "moving_time": 8939.0,
+    "name": "Zwift - The Long Ride - SST Long",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-08T15:23:56Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

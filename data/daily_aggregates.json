@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T15:23:33.104432+00:00",
+  "generated_at": "2026-03-09T15:58:20.267006+00:00",
   "years": {
     "2025": {
       "Ride": {
@@ -1565,6 +1565,15 @@
           "distance": 23464.1,
           "elevation_gain": 181.0,
           "moving_time": 3009.0
+        },
+        "2026-03-08": {
+          "activity_ids": [
+            "17651756806"
+          ],
+          "count": 1,
+          "distance": 64228.0,
+          "elevation_gain": 418.0,
+          "moving_time": 8939.0
         }
       },
       "WeightTraining": {
