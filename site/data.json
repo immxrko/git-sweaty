@@ -1952,6 +1952,33 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17651756806",
       "year": 2026
+    },
+    {
+      "date": "2026-03-09",
+      "hour": 19,
+      "name": "OK + Arme",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17664277092",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-09",
+      "hour": 21,
+      "name": "Zwift - Endurance Free Ride",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17665341151",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-09",
+      "hour": 22,
+      "name": "Brick Run \ud83e\uddf1 @Z2",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17666013469",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3321,6 +3348,17 @@
           "moving_time": 322.0
         }
       },
+      "Run": {
+        "2026-03-09": {
+          "activity_ids": [
+            "17666013469"
+          ],
+          "count": 1,
+          "distance": 8348.7,
+          "elevation_gain": 57.2,
+          "moving_time": 3510.0
+        }
+      },
       "VirtualRide": {
         "2026-01-22": {
           "activity_ids": [
@@ -3528,6 +3566,15 @@
           "distance": 64228.0,
           "elevation_gain": 418.0,
           "moving_time": 8939.0
+        },
+        "2026-03-09": {
+          "activity_ids": [
+            "17665341151"
+          ],
+          "count": 1,
+          "distance": 21144.9,
+          "elevation_gain": 217.0,
+          "moving_time": 3404.0
         }
       },
       "WeightTraining": {
@@ -3917,11 +3964,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3497.0
+        },
+        "2026-03-09": {
+          "activity_ids": [
+            "17664277092"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 5522.0
         }
       }
     }
   },
-  "generated_at": "2026-03-09T15:58:20.274897+00:00",
+  "generated_at": "2026-03-10T15:59:29.523721+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",

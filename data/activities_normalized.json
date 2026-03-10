@@ -2819,5 +2819,44 @@
     "start_date_local": "2026-03-08T15:23:56Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-09",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17664277092",
+    "moving_time": 5522.0,
+    "name": "OK + Arme",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-09T19:37:32Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-09",
+    "distance": 21144.9,
+    "elevation_gain": 217.0,
+    "id": "17665341151",
+    "moving_time": 3404.0,
+    "name": "Zwift - Endurance Free Ride",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-09T21:53:42Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-09",
+    "distance": 8348.7,
+    "elevation_gain": 57.2,
+    "id": "17666013469",
+    "moving_time": 3510.0,
+    "name": "Brick Run \ud83e\uddf1 @Z2",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-09T22:56:36Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
