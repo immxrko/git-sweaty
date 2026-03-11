@@ -2858,5 +2858,18 @@
     "start_date_local": "2026-03-09T22:56:36Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17676191733",
+    "moving_time": 4871.0,
+    "name": "Legday B \u2013 Posterior Chain",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-10T18:35:13Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
