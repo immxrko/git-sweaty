@@ -1988,6 +1988,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/17676191733",
       "year": 2026
+    },
+    {
+      "date": "2026-03-11",
+      "hour": 16,
+      "name": "Zwift - 10x1min MAP (Max Aerobic)",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17686685657",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-11",
+      "hour": 17,
+      "name": "Push 2",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17687648748",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3584,6 +3602,15 @@
           "distance": 21144.9,
           "elevation_gain": 217.0,
           "moving_time": 3404.0
+        },
+        "2026-03-11": {
+          "activity_ids": [
+            "17686685657"
+          ],
+          "count": 1,
+          "distance": 22114.1,
+          "elevation_gain": 227.0,
+          "moving_time": 3155.0
         }
       },
       "WeightTraining": {
@@ -3991,11 +4018,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4871.0
+        },
+        "2026-03-11": {
+          "activity_ids": [
+            "17687648748"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3220.0
         }
       }
     }
   },
-  "generated_at": "2026-03-11T15:48:19.141204+00:00",
+  "generated_at": "2026-03-12T15:58:56.817778+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",

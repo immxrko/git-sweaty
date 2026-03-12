@@ -2871,5 +2871,31 @@
     "start_date_local": "2026-03-10T18:35:13Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-11",
+    "distance": 22114.1,
+    "elevation_gain": 227.0,
+    "id": "17686685657",
+    "moving_time": 3155.0,
+    "name": "Zwift - 10x1min MAP (Max Aerobic)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-11T16:34:18Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-11",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17687648748",
+    "moving_time": 3220.0,
+    "name": "Push 2",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-11T17:50:45Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
