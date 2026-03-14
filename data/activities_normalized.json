@@ -2897,5 +2897,18 @@
     "start_date_local": "2026-03-11T17:50:45Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17712408273",
+    "moving_time": 4701.0,
+    "name": "Pull",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-13T21:29:49Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
