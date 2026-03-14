@@ -2910,5 +2910,44 @@
     "start_date_local": "2026-03-13T21:29:49Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-14",
+    "distance": 5000.0,
+    "elevation_gain": 0.0,
+    "id": "17721731042",
+    "moving_time": 2700.0,
+    "name": "Football, soccer",
+    "raw_activity_type": "Soccer",
+    "raw_type": "Soccer",
+    "start_date_local": "2026-03-14T15:28:28Z",
+    "type": "Soccer",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-14",
+    "distance": 22758.5,
+    "elevation_gain": 126.0,
+    "id": "17723542827",
+    "moving_time": 3009.0,
+    "name": "Zwift - Tempo Over-Under",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-14T19:58:14Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17724068341",
+    "moving_time": 3201.0,
+    "name": "Legday A \u2013 Front Chain",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-14T21:21:05Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
