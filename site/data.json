@@ -2042,6 +2042,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/17724068341",
       "year": 2026
+    },
+    {
+      "date": "2026-03-15",
+      "hour": 18,
+      "name": "Zwift - The Long Ride - 2x30min Tempo With Surges",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17736145415",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3667,6 +3676,15 @@
           "distance": 22758.5,
           "elevation_gain": 126.0,
           "moving_time": 3009.0
+        },
+        "2026-03-15": {
+          "activity_ids": [
+            "17736145415"
+          ],
+          "count": 1,
+          "distance": 70010.3,
+          "elevation_gain": 414.0,
+          "moving_time": 9566.0
         }
       },
       "WeightTraining": {
@@ -4105,7 +4123,7 @@
       }
     }
   },
-  "generated_at": "2026-03-15T15:28:56.638063+00:00",
+  "generated_at": "2026-03-16T16:04:44.745794+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",

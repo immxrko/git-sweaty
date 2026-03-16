@@ -2949,5 +2949,18 @@
     "start_date_local": "2026-03-14T21:21:05Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-15",
+    "distance": 70010.3,
+    "elevation_gain": 414.0,
+    "id": "17736145415",
+    "moving_time": 9566.0,
+    "name": "Zwift - The Long Ride - 2x30min Tempo With Surges",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-15T18:13:52Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
