@@ -2051,6 +2051,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17736145415",
       "year": 2026
+    },
+    {
+      "date": "2026-03-16",
+      "hour": 17,
+      "name": "Push 2",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17744658153",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4119,11 +4128,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3201.0
+        },
+        "2026-03-16": {
+          "activity_ids": [
+            "17744658153"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4229.0
         }
       }
     }
   },
-  "generated_at": "2026-03-16T16:04:44.745794+00:00",
+  "generated_at": "2026-03-17T16:06:05.211133+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
