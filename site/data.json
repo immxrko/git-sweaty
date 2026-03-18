@@ -2060,6 +2060,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/17744658153",
       "year": 2026
+    },
+    {
+      "date": "2026-03-17",
+      "hour": 20,
+      "name": "Zwift - Terrain Ride",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17758718662",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3694,6 +3703,15 @@
           "distance": 70010.3,
           "elevation_gain": 414.0,
           "moving_time": 9566.0
+        },
+        "2026-03-17": {
+          "activity_ids": [
+            "17758718662"
+          ],
+          "count": 1,
+          "distance": 25943.2,
+          "elevation_gain": 131.0,
+          "moving_time": 3013.0
         }
       },
       "WeightTraining": {
@@ -4141,7 +4159,7 @@
       }
     }
   },
-  "generated_at": "2026-03-17T16:06:05.211133+00:00",
+  "generated_at": "2026-03-18T16:07:56.454267+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
