@@ -3014,5 +3014,18 @@
     "start_date_local": "2026-03-19T17:54:51Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-20",
+    "distance": 22922.9,
+    "elevation_gain": 199.0,
+    "id": "17794267627",
+    "moving_time": 3021.0,
+    "name": "Zwift - Progressive Ramps",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-20T18:38:14Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
