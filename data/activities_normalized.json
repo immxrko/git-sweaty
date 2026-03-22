@@ -3027,5 +3027,31 @@
     "start_date_local": "2026-03-20T18:38:14Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17806478173",
+    "moving_time": 4084.0,
+    "name": "OK + Arme",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-21T17:32:50Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-21",
+    "distance": 90078.9,
+    "elevation_gain": 180.0,
+    "id": "17808890452",
+    "moving_time": 10520.0,
+    "name": "Zwift - The Long Ride - Intervals & Progressive SST",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-21T20:43:02Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
