@@ -3053,5 +3053,31 @@
     "start_date_local": "2026-03-21T20:43:02Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-22",
+    "distance": 20067.5,
+    "elevation_gain": 32.0,
+    "id": "17821466948",
+    "moving_time": 3032.0,
+    "name": "Zwift - Endurance Free Ride",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-22T21:03:58Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-22",
+    "distance": 10000.0,
+    "elevation_gain": 0.0,
+    "id": "17821786593",
+    "moving_time": 5400.0,
+    "name": "Football, soccer",
+    "raw_activity_type": "Soccer",
+    "raw_type": "Soccer",
+    "start_date_local": "2026-03-22T16:00:14Z",
+    "type": "Soccer",
+    "year": 2026
   }
 ]
