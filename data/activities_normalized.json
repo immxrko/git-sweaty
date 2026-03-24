@@ -3079,5 +3079,18 @@
     "start_date_local": "2026-03-22T16:00:14Z",
     "type": "Soccer",
     "year": 2026
+  },
+  {
+    "date": "2026-03-23",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17830460750",
+    "moving_time": 4449.0,
+    "name": "Push 2",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-23T17:42:07Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
