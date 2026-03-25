@@ -3092,5 +3092,31 @@
     "start_date_local": "2026-03-23T17:42:07Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-24",
+    "distance": 15260.6,
+    "elevation_gain": 120.0,
+    "id": "17844067025",
+    "moving_time": 3005.0,
+    "name": "Zwift - Endurance Free Ride",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-24T18:48:52Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17846138094",
+    "moving_time": 5049.0,
+    "name": "Abendtraining",
+    "raw_activity_type": "Soccer",
+    "raw_type": "Soccer",
+    "start_date_local": "2026-03-24T20:35:26Z",
+    "type": "Soccer",
+    "year": 2026
   }
 ]
