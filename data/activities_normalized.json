@@ -3118,5 +3118,18 @@
     "start_date_local": "2026-03-24T20:35:26Z",
     "type": "Soccer",
     "year": 2026
+  },
+  {
+    "date": "2026-03-25",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17856605903",
+    "moving_time": 6968.0,
+    "name": "Legday B \u2013 Posterior Chain",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-25T17:41:52Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
