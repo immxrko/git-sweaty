@@ -3144,5 +3144,18 @@
     "start_date_local": "2026-03-26T17:57:06Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-27",
+    "distance": 22944.6,
+    "elevation_gain": 172.0,
+    "id": "17880536809",
+    "moving_time": 3008.0,
+    "name": "Zwift - Steady & Surges",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-27T20:12:30Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

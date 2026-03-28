@@ -2177,6 +2177,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/17868231145",
       "year": 2026
+    },
+    {
+      "date": "2026-03-27",
+      "hour": 20,
+      "name": "Zwift - Steady & Surges",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17880536809",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3874,6 +3883,15 @@
           "distance": 15260.6,
           "elevation_gain": 120.0,
           "moving_time": 3005.0
+        },
+        "2026-03-27": {
+          "activity_ids": [
+            "17880536809"
+          ],
+          "count": 1,
+          "distance": 22944.6,
+          "elevation_gain": 172.0,
+          "moving_time": 3008.0
         }
       },
       "WeightTraining": {
@@ -4375,7 +4393,7 @@
       }
     }
   },
-  "generated_at": "2026-03-27T15:53:16.236611+00:00",
+  "generated_at": "2026-03-28T15:30:25.337515+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
