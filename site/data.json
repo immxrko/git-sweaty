@@ -2186,6 +2186,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17880536809",
       "year": 2026
+    },
+    {
+      "date": "2026-03-28",
+      "hour": 10,
+      "name": "Football, soccer",
+      "subtype": "Soccer",
+      "type": "Soccer",
+      "url": "https://www.strava.com/activities/17892411146",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-28",
+      "hour": 23,
+      "name": "Zwift - 5x3min Progressive MAP (Max Aerobic)",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17894159267",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3593,6 +3611,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 5049.0
+        },
+        "2026-03-28": {
+          "activity_ids": [
+            "17892411146"
+          ],
+          "count": 1,
+          "distance": 8000.0,
+          "elevation_gain": 0.0,
+          "moving_time": 5400.0
         }
       },
       "VirtualRide": {
@@ -3892,6 +3919,15 @@
           "distance": 22944.6,
           "elevation_gain": 172.0,
           "moving_time": 3008.0
+        },
+        "2026-03-28": {
+          "activity_ids": [
+            "17894159267"
+          ],
+          "count": 1,
+          "distance": 22364.3,
+          "elevation_gain": 64.0,
+          "moving_time": 3014.0
         }
       },
       "WeightTraining": {
@@ -4393,7 +4429,7 @@
       }
     }
   },
-  "generated_at": "2026-03-28T15:30:25.337515+00:00",
+  "generated_at": "2026-03-29T15:31:18.663447+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",

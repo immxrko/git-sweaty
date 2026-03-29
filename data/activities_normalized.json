@@ -3157,5 +3157,31 @@
     "start_date_local": "2026-03-27T20:12:30Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 8000.0,
+    "elevation_gain": 0.0,
+    "id": "17892411146",
+    "moving_time": 5400.0,
+    "name": "Football, soccer",
+    "raw_activity_type": "Soccer",
+    "raw_type": "Soccer",
+    "start_date_local": "2026-03-28T10:00:47Z",
+    "type": "Soccer",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 22364.3,
+    "elevation_gain": 64.0,
+    "id": "17894159267",
+    "moving_time": 3014.0,
+    "name": "Zwift - 5x3min Progressive MAP (Max Aerobic)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-28T23:09:50Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
