@@ -3183,5 +3183,31 @@
     "start_date_local": "2026-03-28T23:09:50Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-29",
+    "distance": 84912.8,
+    "elevation_gain": 329.0,
+    "id": "17904648720",
+    "moving_time": 11705.0,
+    "name": "Zwift - The Long Ride - 6x20min Tempo",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-29T16:15:59Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17905408244",
+    "moving_time": 3981.0,
+    "name": "Schulter & Arme",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-29T20:10:12Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
