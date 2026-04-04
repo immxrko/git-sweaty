@@ -3248,5 +3248,18 @@
     "start_date_local": "2026-04-02T17:44:39Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 22440.7,
+    "elevation_gain": 172.0,
+    "id": "17967267924",
+    "moving_time": 3015.0,
+    "name": "Zwift - Taper Steady",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-03T22:42:24Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
