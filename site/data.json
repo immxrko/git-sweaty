@@ -2258,6 +2258,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17967267924",
       "year": 2026
+    },
+    {
+      "date": "2026-04-04",
+      "hour": 16,
+      "name": "Legday B \u2013 Posterior Chain",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17977366295",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-04",
+      "hour": 22,
+      "name": "Zwift - Final Sharpen",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17980013942",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4000,6 +4018,15 @@
           "distance": 22440.7,
           "elevation_gain": 172.0,
           "moving_time": 3015.0
+        },
+        "2026-04-04": {
+          "activity_ids": [
+            "17980013942"
+          ],
+          "count": 1,
+          "distance": 11882.1,
+          "elevation_gain": 96.0,
+          "moving_time": 1826.0
         }
       },
       "WeightTraining": {
@@ -4533,11 +4560,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 6192.0
+        },
+        "2026-04-04": {
+          "activity_ids": [
+            "17977366295"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 6739.0
         }
       }
     }
   },
-  "generated_at": "2026-04-04T15:31:21.004540+00:00",
+  "generated_at": "2026-04-05T15:32:17.389991+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
