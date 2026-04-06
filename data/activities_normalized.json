@@ -3287,5 +3287,44 @@
     "start_date_local": "2026-04-04T22:30:48Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 24059.9,
+    "elevation_gain": 181.0,
+    "id": "17990064956",
+    "moving_time": 3012.0,
+    "name": "Zwift - Taper Time",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-05T17:42:35Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17991163713",
+    "moving_time": 4571.0,
+    "name": "OK + Arme",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-05T19:04:49Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-06",
+    "distance": 12219.6,
+    "elevation_gain": 20.0,
+    "id": "17998761488",
+    "moving_time": 1543.0,
+    "name": "Zwift - FTP Ramp Test",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-06T13:39:26Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

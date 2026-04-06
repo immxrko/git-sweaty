@@ -2276,6 +2276,33 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17980013942",
       "year": 2026
+    },
+    {
+      "date": "2026-04-05",
+      "hour": 17,
+      "name": "Zwift - Taper Time",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17990064956",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-05",
+      "hour": 19,
+      "name": "OK + Arme",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17991163713",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-06",
+      "hour": 13,
+      "name": "Zwift - FTP Ramp Test",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17998761488",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4027,6 +4054,24 @@
           "distance": 11882.1,
           "elevation_gain": 96.0,
           "moving_time": 1826.0
+        },
+        "2026-04-05": {
+          "activity_ids": [
+            "17990064956"
+          ],
+          "count": 1,
+          "distance": 24059.9,
+          "elevation_gain": 181.0,
+          "moving_time": 3012.0
+        },
+        "2026-04-06": {
+          "activity_ids": [
+            "17998761488"
+          ],
+          "count": 1,
+          "distance": 12219.6,
+          "elevation_gain": 20.0,
+          "moving_time": 1543.0
         }
       },
       "WeightTraining": {
@@ -4569,11 +4614,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 6739.0
+        },
+        "2026-04-05": {
+          "activity_ids": [
+            "17991163713"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4571.0
         }
       }
     }
   },
-  "generated_at": "2026-04-05T15:32:17.389991+00:00",
+  "generated_at": "2026-04-06T15:45:28.108563+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
