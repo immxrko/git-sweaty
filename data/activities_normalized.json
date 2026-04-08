@@ -3326,5 +3326,18 @@
     "start_date_local": "2026-04-06T13:39:26Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18016012033",
+    "moving_time": 4593.0,
+    "name": "Legday A \u2013 Front Chain",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-07T17:59:18Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]

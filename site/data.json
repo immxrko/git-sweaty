@@ -2303,6 +2303,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17998761488",
       "year": 2026
+    },
+    {
+      "date": "2026-04-07",
+      "hour": 17,
+      "name": "Legday A \u2013 Front Chain",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18016012033",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4623,11 +4632,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4571.0
+        },
+        "2026-04-07": {
+          "activity_ids": [
+            "18016012033"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4593.0
         }
       }
     }
   },
-  "generated_at": "2026-04-07T16:09:37.999365+00:00",
+  "generated_at": "2026-04-08T16:14:16.649199+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
