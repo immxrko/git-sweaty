@@ -2339,6 +2339,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18067249372",
       "year": 2026
+    },
+    {
+      "date": "2026-04-11",
+      "hour": 17,
+      "name": "Padel",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/18070295793",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-11",
+      "hour": 20,
+      "name": "Zwift - Neues Workout",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18070830698",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4108,6 +4126,15 @@
           "distance": 12219.6,
           "elevation_gain": 20.0,
           "moving_time": 1543.0
+        },
+        "2026-04-11": {
+          "activity_ids": [
+            "18070830698"
+          ],
+          "count": 1,
+          "distance": 26755.5,
+          "elevation_gain": 41.0,
+          "moving_time": 3021.0
         }
       },
       "WeightTraining": {
@@ -4696,10 +4723,21 @@
           "elevation_gain": 0.0,
           "moving_time": 4440.0
         }
+      },
+      "Workout": {
+        "2026-04-11": {
+          "activity_ids": [
+            "18070295793"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 7200.0
+        }
       }
     }
   },
-  "generated_at": "2026-04-11T15:33:03.157891+00:00",
+  "generated_at": "2026-04-12T15:35:37.214218+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",

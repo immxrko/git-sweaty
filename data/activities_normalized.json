@@ -3378,5 +3378,31 @@
     "start_date_local": "2026-04-11T15:12:54Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18070295793",
+    "moving_time": 7200.0,
+    "name": "Padel",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-11T17:00:53Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 26755.5,
+    "elevation_gain": 41.0,
+    "id": "18070830698",
+    "moving_time": 3021.0,
+    "name": "Zwift - Neues Workout",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-11T20:41:32Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
