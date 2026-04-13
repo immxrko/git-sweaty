@@ -3404,5 +3404,44 @@
     "start_date_local": "2026-04-11T20:41:32Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 1500.0,
+    "elevation_gain": 0.0,
+    "id": "18082213377",
+    "moving_time": 900.0,
+    "name": "Football, soccer",
+    "raw_activity_type": "Soccer",
+    "raw_type": "Soccer",
+    "start_date_local": "2026-04-12T14:30:02Z",
+    "type": "Soccer",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 52015.4,
+    "elevation_gain": 79.0,
+    "id": "18084972679",
+    "moving_time": 6030.0,
+    "name": "Zwift - 1:40@Z2",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-12T21:26:17Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 27156.7,
+    "elevation_gain": 42.0,
+    "id": "18092482788",
+    "moving_time": 3015.0,
+    "name": "Zwift - 50min@Z2",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-13T16:39:24Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
