@@ -3443,5 +3443,18 @@
     "start_date_local": "2026-04-13T16:39:24Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18094503066",
+    "moving_time": 6051.0,
+    "name": "Push 2",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-13T18:22:17Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
