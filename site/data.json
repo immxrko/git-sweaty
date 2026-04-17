@@ -2411,6 +2411,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18121635649",
       "year": 2026
+    },
+    {
+      "date": "2026-04-16",
+      "hour": 17,
+      "name": "Zwift - 50min@Z2",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18133946821",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-17",
+      "hour": 16,
+      "name": "OK + Arme",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18146497112",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4216,6 +4234,15 @@
           "distance": 27156.7,
           "elevation_gain": 42.0,
           "moving_time": 3015.0
+        },
+        "2026-04-16": {
+          "activity_ids": [
+            "18133946821"
+          ],
+          "count": 1,
+          "distance": 26568.5,
+          "elevation_gain": 41.0,
+          "moving_time": 3012.0
         }
       },
       "WeightTraining": {
@@ -4830,6 +4857,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 6638.0
+        },
+        "2026-04-17": {
+          "activity_ids": [
+            "18146497112"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4449.0
         }
       },
       "Workout": {
@@ -4845,7 +4881,7 @@
       }
     }
   },
-  "generated_at": "2026-04-16T16:22:44.809203+00:00",
+  "generated_at": "2026-04-17T16:00:27.463785+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
