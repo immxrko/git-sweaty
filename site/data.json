@@ -2429,6 +2429,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18146497112",
       "year": 2026
+    },
+    {
+      "date": "2026-04-17",
+      "hour": 18,
+      "name": "Abendlauf",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18148148786",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-18",
+      "hour": 9,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18154282397",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3807,6 +3825,24 @@
           "distance": 8348.7,
           "elevation_gain": 57.2,
           "moving_time": 3510.0
+        },
+        "2026-04-17": {
+          "activity_ids": [
+            "18148148786"
+          ],
+          "count": 1,
+          "distance": 7826.5,
+          "elevation_gain": 49.6,
+          "moving_time": 3580.0
+        },
+        "2026-04-18": {
+          "activity_ids": [
+            "18154282397"
+          ],
+          "count": 1,
+          "distance": 10619.3,
+          "elevation_gain": 21.4,
+          "moving_time": 4233.0
         }
       },
       "Soccer": {
@@ -4881,7 +4917,7 @@
       }
     }
   },
-  "generated_at": "2026-04-17T16:00:27.463785+00:00",
+  "generated_at": "2026-04-18T15:36:54.014954+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
