@@ -3560,5 +3560,31 @@
     "start_date_local": "2026-04-19T15:39:03Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-20",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18186965468",
+    "moving_time": 5992.0,
+    "name": "Legday B \u2013 Posterior Chain",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-20T17:50:57Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-20",
+    "distance": 9044.1,
+    "elevation_gain": 22.4,
+    "id": "18188474207",
+    "moving_time": 4268.0,
+    "name": "Recovery Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-20T19:59:48Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
