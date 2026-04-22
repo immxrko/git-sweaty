@@ -3586,5 +3586,18 @@
     "start_date_local": "2026-04-20T19:59:48Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18200918050",
+    "moving_time": 5685.0,
+    "name": "Push 2",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-21T17:53:06Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
