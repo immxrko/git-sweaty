@@ -3599,5 +3599,44 @@
     "start_date_local": "2026-04-21T17:53:06Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 40059.3,
+    "elevation_gain": 63.0,
+    "id": "18214610338",
+    "moving_time": 4807.0,
+    "name": "Zwift - 1:20@Z2 (1)",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-22T17:38:07Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18226305766",
+    "moving_time": 4346.0,
+    "name": "Pull",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-23T15:13:40Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 5586.0,
+    "elevation_gain": 52.2,
+    "id": "18227180290",
+    "moving_time": 1925.0,
+    "name": "SST",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-23T16:58:18Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

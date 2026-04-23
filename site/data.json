@@ -2492,6 +2492,33 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18200918050",
       "year": 2026
+    },
+    {
+      "date": "2026-04-22",
+      "hour": 17,
+      "name": "Zwift - 1:20@Z2 (1)",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18214610338",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-23",
+      "hour": 15,
+      "name": "Pull",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18226305766",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-23",
+      "hour": 16,
+      "name": "SST",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18227180290",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3897,6 +3924,15 @@
           "distance": 9044.1,
           "elevation_gain": 22.4,
           "moving_time": 4268.0
+        },
+        "2026-04-23": {
+          "activity_ids": [
+            "18227180290"
+          ],
+          "count": 1,
+          "distance": 5586.0,
+          "elevation_gain": 52.2,
+          "moving_time": 1925.0
         }
       },
       "Soccer": {
@@ -4351,6 +4387,15 @@
           "distance": 54480.8,
           "elevation_gain": 85.0,
           "moving_time": 6367.0
+        },
+        "2026-04-22": {
+          "activity_ids": [
+            "18214610338"
+          ],
+          "count": 1,
+          "distance": 40059.3,
+          "elevation_gain": 63.0,
+          "moving_time": 4807.0
         }
       },
       "WeightTraining": {
@@ -4992,6 +5037,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 5685.0
+        },
+        "2026-04-23": {
+          "activity_ids": [
+            "18226305766"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4346.0
         }
       },
       "Workout": {
@@ -5007,7 +5061,7 @@
       }
     }
   },
-  "generated_at": "2026-04-22T16:08:32.142399+00:00",
+  "generated_at": "2026-04-23T21:18:40.222478+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
