@@ -3664,5 +3664,18 @@
     "start_date_local": "2026-04-25T12:57:57Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 6000.0,
+    "elevation_gain": 0.0,
+    "id": "18256431805",
+    "moving_time": 5400.0,
+    "name": "Fu\u00dfball am Abend",
+    "raw_activity_type": "Soccer",
+    "raw_type": "Soccer",
+    "start_date_local": "2026-04-25T18:00:00Z",
+    "type": "Soccer",
+    "year": 2026
   }
 ]
