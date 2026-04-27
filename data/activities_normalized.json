@@ -3677,5 +3677,44 @@
     "start_date_local": "2026-04-25T18:00:00Z",
     "type": "Soccer",
     "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 23953.3,
+    "elevation_gain": 38.0,
+    "id": "18270766155",
+    "moving_time": 2899.0,
+    "name": "Zwift - Recovery Spin",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-26T20:14:52Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18271565541",
+    "moving_time": 3882.0,
+    "name": "Legday A \u2013 Front Chain",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-26T21:36:05Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-27",
+    "distance": 8242.8,
+    "elevation_gain": 63.8,
+    "id": "18280396357",
+    "moving_time": 3359.0,
+    "name": "Lauf am Nachmittag",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-27T17:20:48Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
