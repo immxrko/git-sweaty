@@ -3671,7 +3671,7 @@
     "elevation_gain": 0.0,
     "id": "18256431805",
     "moving_time": 5400.0,
-    "name": "Fu\u00dfball am Abend",
+    "name": "vs. Teco7",
     "raw_activity_type": "Soccer",
     "raw_type": "Soccer",
     "start_date_local": "2026-04-25T18:00:00Z",
@@ -3715,6 +3715,19 @@
     "raw_type": "Run",
     "start_date_local": "2026-04-27T17:20:48Z",
     "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-27",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18281965738",
+    "moving_time": 3900.0,
+    "name": "Traditional Strength Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-27T18:48:27Z",
+    "type": "WeightTraining",
     "year": 2026
   }
 ]
