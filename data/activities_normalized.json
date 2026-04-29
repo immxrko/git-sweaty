@@ -3729,5 +3729,31 @@
     "start_date_local": "2026-04-27T18:48:27Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-28",
+    "distance": 32991.2,
+    "elevation_gain": 53.0,
+    "id": "18295131129",
+    "moving_time": 3508.0,
+    "name": "Zwift - Pacing #1",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-28T18:29:02Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-28",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18297439122",
+    "moving_time": 5469.0,
+    "name": "Training",
+    "raw_activity_type": "Soccer",
+    "raw_type": "Soccer",
+    "start_date_local": "2026-04-28T20:32:03Z",
+    "type": "Soccer",
+    "year": 2026
   }
 ]

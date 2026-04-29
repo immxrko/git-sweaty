@@ -2582,6 +2582,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18281965738",
       "year": 2026
+    },
+    {
+      "date": "2026-04-28",
+      "hour": 18,
+      "name": "Zwift - Pacing #1",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18295131129",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-28",
+      "hour": 20,
+      "name": "Training",
+      "subtype": "Soccer",
+      "type": "Soccer",
+      "url": "https://www.strava.com/activities/18297439122",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4061,6 +4079,15 @@
           "distance": 6000.0,
           "elevation_gain": 0.0,
           "moving_time": 5400.0
+        },
+        "2026-04-28": {
+          "activity_ids": [
+            "18297439122"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 5469.0
         }
       },
       "VirtualRide": {
@@ -4504,6 +4531,15 @@
           "distance": 23953.3,
           "elevation_gain": 38.0,
           "moving_time": 2899.0
+        },
+        "2026-04-28": {
+          "activity_ids": [
+            "18295131129"
+          ],
+          "count": 1,
+          "distance": 32991.2,
+          "elevation_gain": 53.0,
+          "moving_time": 3508.0
         }
       },
       "WeightTraining": {
@@ -5187,7 +5223,7 @@
       }
     }
   },
-  "generated_at": "2026-04-28T16:50:47.215793+00:00",
+  "generated_at": "2026-04-29T16:27:03.108817+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
