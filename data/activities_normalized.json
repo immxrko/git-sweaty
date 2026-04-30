@@ -3755,5 +3755,44 @@
     "start_date_local": "2026-04-28T20:32:03Z",
     "type": "Soccer",
     "year": 2026
+  },
+  {
+    "date": "2026-04-29",
+    "distance": 9236.7,
+    "elevation_gain": 75.0,
+    "id": "18308695165",
+    "moving_time": 3700.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-29T17:58:28Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18310067027",
+    "moving_time": 3863.0,
+    "name": "Pull",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-29T19:30:46Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 50274.0,
+    "elevation_gain": 79.0,
+    "id": "18320069697",
+    "moving_time": 5766.0,
+    "name": "Zwift - Aerobic Builds",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-30T15:10:46Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
