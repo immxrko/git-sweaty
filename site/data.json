@@ -2627,6 +2627,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18320069697",
       "year": 2026
+    },
+    {
+      "date": "2026-05-01",
+      "hour": 15,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18333603170",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-01",
+      "hour": 16,
+      "name": "Zwift - Easy Hour",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18334676240",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4059,6 +4077,15 @@
           "distance": 9236.7,
           "elevation_gain": 75.0,
           "moving_time": 3700.0
+        },
+        "2026-05-01": {
+          "activity_ids": [
+            "18333603170"
+          ],
+          "count": 1,
+          "distance": 7255.0,
+          "elevation_gain": 58.0,
+          "moving_time": 2384.0
         }
       },
       "Soccer": {
@@ -4585,6 +4612,15 @@
           "distance": 50274.0,
           "elevation_gain": 79.0,
           "moving_time": 5766.0
+        },
+        "2026-05-01": {
+          "activity_ids": [
+            "18334676240"
+          ],
+          "count": 1,
+          "distance": 29249.7,
+          "elevation_gain": 46.0,
+          "moving_time": 3629.0
         }
       },
       "WeightTraining": {
@@ -5277,7 +5313,7 @@
       }
     }
   },
-  "generated_at": "2026-04-30T16:18:35.232381+00:00",
+  "generated_at": "2026-05-01T15:57:14.307746+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",

@@ -3794,5 +3794,31 @@
     "start_date_local": "2026-04-30T15:10:46Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 7255.0,
+    "elevation_gain": 58.0,
+    "id": "18333603170",
+    "moving_time": 2384.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-01T15:37:24Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 29249.7,
+    "elevation_gain": 46.0,
+    "id": "18334676240",
+    "moving_time": 3629.0,
+    "name": "Zwift - Easy Hour",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-01T16:37:19Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
