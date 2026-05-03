@@ -2645,6 +2645,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18334676240",
       "year": 2026
+    },
+    {
+      "date": "2026-05-02",
+      "hour": 13,
+      "name": "KM vs. Elite",
+      "subtype": "Soccer",
+      "type": "Soccer",
+      "url": "https://www.strava.com/activities/18348473058",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-02",
+      "hour": 15,
+      "name": "RES vs. Elite",
+      "subtype": "Soccer",
+      "type": "Soccer",
+      "url": "https://www.strava.com/activities/18348480319",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4151,6 +4169,16 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 5469.0
+        },
+        "2026-05-02": {
+          "activity_ids": [
+            "18348473058",
+            "18348480319"
+          ],
+          "count": 2,
+          "distance": 14000.0,
+          "elevation_gain": 0.0,
+          "moving_time": 9000.0
         }
       },
       "VirtualRide": {
@@ -5313,7 +5341,7 @@
       }
     }
   },
-  "generated_at": "2026-05-02T15:44:23.762645+00:00",
+  "generated_at": "2026-05-03T15:46:08.275734+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",

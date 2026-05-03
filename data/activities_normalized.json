@@ -3820,5 +3820,31 @@
     "start_date_local": "2026-05-01T16:37:19Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 6000.0,
+    "elevation_gain": 0.0,
+    "id": "18348473058",
+    "moving_time": 3600.0,
+    "name": "KM vs. Elite",
+    "raw_activity_type": "Soccer",
+    "raw_type": "Soccer",
+    "start_date_local": "2026-05-02T13:00:49Z",
+    "type": "Soccer",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 8000.0,
+    "elevation_gain": 0.0,
+    "id": "18348480319",
+    "moving_time": 5400.0,
+    "name": "RES vs. Elite",
+    "raw_activity_type": "Soccer",
+    "raw_type": "Soccer",
+    "start_date_local": "2026-05-02T15:00:00Z",
+    "type": "Soccer",
+    "year": 2026
   }
 ]
