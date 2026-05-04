@@ -2663,6 +2663,24 @@
       "type": "Soccer",
       "url": "https://www.strava.com/activities/18348480319",
       "year": 2026
+    },
+    {
+      "date": "2026-05-03",
+      "hour": 19,
+      "name": "Zwift - Active Recovery",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18364375799",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-03",
+      "hour": 21,
+      "name": "Legday B \u2013 Posterior Chain",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18365109354",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4649,6 +4667,15 @@
           "distance": 29249.7,
           "elevation_gain": 46.0,
           "moving_time": 3629.0
+        },
+        "2026-05-03": {
+          "activity_ids": [
+            "18364375799"
+          ],
+          "count": 1,
+          "distance": 56244.3,
+          "elevation_gain": 85.0,
+          "moving_time": 6919.0
         }
       },
       "WeightTraining": {
@@ -5326,6 +5353,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3863.0
+        },
+        "2026-05-03": {
+          "activity_ids": [
+            "18365109354"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4187.0
         }
       },
       "Workout": {
@@ -5341,7 +5377,7 @@
       }
     }
   },
-  "generated_at": "2026-05-03T15:46:08.275734+00:00",
+  "generated_at": "2026-05-04T16:45:09.338048+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",

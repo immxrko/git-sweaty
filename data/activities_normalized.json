@@ -3846,5 +3846,31 @@
     "start_date_local": "2026-05-02T15:00:00Z",
     "type": "Soccer",
     "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 56244.3,
+    "elevation_gain": 85.0,
+    "id": "18364375799",
+    "moving_time": 6919.0,
+    "name": "Zwift - Active Recovery",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-03T19:23:26Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18365109354",
+    "moving_time": 4187.0,
+    "name": "Legday B \u2013 Posterior Chain",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-03T21:42:19Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
