@@ -3898,5 +3898,31 @@
     "start_date_local": "2026-05-04T20:26:34Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 32707.7,
+    "elevation_gain": 53.0,
+    "id": "18389716564",
+    "moving_time": 3615.0,
+    "name": "Zwift - Get It Done",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-05T19:53:36Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-06",
+    "distance": 7557.8,
+    "elevation_gain": 60.0,
+    "id": "18399830235",
+    "moving_time": 2753.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-06T15:43:12Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

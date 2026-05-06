@@ -2699,6 +2699,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18376157628",
       "year": 2026
+    },
+    {
+      "date": "2026-05-05",
+      "hour": 19,
+      "name": "Zwift - Get It Done",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18389716564",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-06",
+      "hour": 15,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18399830235",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4149,6 +4167,15 @@
           "distance": 6802.6,
           "elevation_gain": 53.0,
           "moving_time": 2412.0
+        },
+        "2026-05-06": {
+          "activity_ids": [
+            "18399830235"
+          ],
+          "count": 1,
+          "distance": 7557.8,
+          "elevation_gain": 60.0,
+          "moving_time": 2753.0
         }
       },
       "Soccer": {
@@ -4703,6 +4730,15 @@
           "distance": 56244.3,
           "elevation_gain": 85.0,
           "moving_time": 6919.0
+        },
+        "2026-05-05": {
+          "activity_ids": [
+            "18389716564"
+          ],
+          "count": 1,
+          "distance": 32707.7,
+          "elevation_gain": 53.0,
+          "moving_time": 3615.0
         }
       },
       "WeightTraining": {
@@ -5413,7 +5449,7 @@
       }
     }
   },
-  "generated_at": "2026-05-05T16:24:01.665363+00:00",
+  "generated_at": "2026-05-06T16:26:56.504123+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
