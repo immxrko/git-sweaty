@@ -2717,6 +2717,42 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18399830235",
       "year": 2026
+    },
+    {
+      "date": "2026-05-06",
+      "hour": 17,
+      "name": "Push 2",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18401290274",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-06",
+      "hour": 18,
+      "name": "Eis mit Oma \ud83c\udf66\ud83e\udec2",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18401755631",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-07",
+      "hour": 10,
+      "name": "Zwift - VO2 Max - 4x3 Ramps",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18409335989",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-07",
+      "hour": 11,
+      "name": "THROWING BRICKSSSSS\ud83e\uddf1\ud83e\uddf1\ud83e\uddf1",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18409630168",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4176,6 +4212,15 @@
           "distance": 7557.8,
           "elevation_gain": 60.0,
           "moving_time": 2753.0
+        },
+        "2026-05-07": {
+          "activity_ids": [
+            "18409630168"
+          ],
+          "count": 1,
+          "distance": 5008.4,
+          "elevation_gain": 36.0,
+          "moving_time": 1839.0
         }
       },
       "Soccer": {
@@ -4739,6 +4784,26 @@
           "distance": 32707.7,
           "elevation_gain": 53.0,
           "moving_time": 3615.0
+        },
+        "2026-05-07": {
+          "activity_ids": [
+            "18409335989"
+          ],
+          "count": 1,
+          "distance": 21936.0,
+          "elevation_gain": 33.0,
+          "moving_time": 2495.0
+        }
+      },
+      "Walk": {
+        "2026-05-06": {
+          "activity_ids": [
+            "18401755631"
+          ],
+          "count": 1,
+          "distance": 1838.0,
+          "elevation_gain": 26.0,
+          "moving_time": 1598.0
         }
       },
       "WeightTraining": {
@@ -5434,6 +5499,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 5321.0
+        },
+        "2026-05-06": {
+          "activity_ids": [
+            "18401290274"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3348.0
         }
       },
       "Workout": {
@@ -5449,7 +5523,7 @@
       }
     }
   },
-  "generated_at": "2026-05-06T16:26:56.504123+00:00",
+  "generated_at": "2026-05-07T16:49:03.478598+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
@@ -5480,6 +5554,10 @@
       "accent": "#fee440",
       "label": "Virtual Ride"
     },
+    "Walk": {
+      "accent": "#d6ff6b",
+      "label": "Walk"
+    },
     "WeightTraining": {
       "accent": "#ff71ce",
       "label": "Weight Training"
@@ -5496,6 +5574,7 @@
     "Soccer",
     "Swim",
     "VirtualRide",
+    "Walk",
     "WeightTraining",
     "Workout"
   ],

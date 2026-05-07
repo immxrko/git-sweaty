@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T16:26:56.495340+00:00",
+  "generated_at": "2026-05-07T16:49:03.470267+00:00",
   "years": {
     "2025": {
       "Ride": {
@@ -1457,6 +1457,15 @@
           "distance": 7557.8,
           "elevation_gain": 60.0,
           "moving_time": 2753.0
+        },
+        "2026-05-07": {
+          "activity_ids": [
+            "18409630168"
+          ],
+          "count": 1,
+          "distance": 5008.4,
+          "elevation_gain": 36.0,
+          "moving_time": 1839.0
         }
       },
       "Soccer": {
@@ -2020,6 +2029,26 @@
           "distance": 32707.7,
           "elevation_gain": 53.0,
           "moving_time": 3615.0
+        },
+        "2026-05-07": {
+          "activity_ids": [
+            "18409335989"
+          ],
+          "count": 1,
+          "distance": 21936.0,
+          "elevation_gain": 33.0,
+          "moving_time": 2495.0
+        }
+      },
+      "Walk": {
+        "2026-05-06": {
+          "activity_ids": [
+            "18401755631"
+          ],
+          "count": 1,
+          "distance": 1838.0,
+          "elevation_gain": 26.0,
+          "moving_time": 1598.0
         }
       },
       "WeightTraining": {
@@ -2715,6 +2744,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 5321.0
+        },
+        "2026-05-06": {
+          "activity_ids": [
+            "18401290274"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3348.0
         }
       },
       "Workout": {

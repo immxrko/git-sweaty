@@ -3924,5 +3924,57 @@
     "start_date_local": "2026-05-06T15:43:12Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-06",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18401290274",
+    "moving_time": 3348.0,
+    "name": "Push 2",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-06T17:44:14Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-06",
+    "distance": 1838.0,
+    "elevation_gain": 26.0,
+    "id": "18401755631",
+    "moving_time": 1598.0,
+    "name": "Eis mit Oma \ud83c\udf66\ud83e\udec2",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-06T18:42:28Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 21936.0,
+    "elevation_gain": 33.0,
+    "id": "18409335989",
+    "moving_time": 2495.0,
+    "name": "Zwift - VO2 Max - 4x3 Ramps",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-07T10:23:32Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 5008.4,
+    "elevation_gain": 36.0,
+    "id": "18409630168",
+    "moving_time": 1839.0,
+    "name": "THROWING BRICKSSSSS\ud83e\uddf1\ud83e\uddf1\ud83e\uddf1",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-07T11:09:15Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
