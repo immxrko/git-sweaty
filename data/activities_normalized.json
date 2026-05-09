@@ -3983,11 +3983,50 @@
     "elevation_gain": 66.0,
     "id": "18427283203",
     "moving_time": 4056.0,
-    "name": "Afternoon Run",
+    "name": "Afterwork Shakeout \ud83d\udca8",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-05-08T16:55:37Z",
     "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18430026142",
+    "moving_time": 3757.0,
+    "name": "Night Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-08T21:42:40Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 43495.1,
+    "elevation_gain": 65.0,
+    "id": "18437168747",
+    "moving_time": 5113.0,
+    "name": "Zwift - Day 1",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-09T12:07:13Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18440507365",
+    "moving_time": 4228.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-09T16:09:47Z",
+    "type": "WeightTraining",
     "year": 2026
   }
 ]
