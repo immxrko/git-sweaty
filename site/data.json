@@ -2816,6 +2816,24 @@
       "type": "Soccer",
       "url": "https://www.strava.com/activities/18456580757",
       "year": 2026
+    },
+    {
+      "date": "2026-05-11",
+      "hour": 18,
+      "name": "Marko 1:0 Gewitter",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18466524364",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-11",
+      "hour": 21,
+      "name": "Zwift - Lionel Sanders' Yellow Day Workout",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18468614032",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4293,6 +4311,15 @@
           "distance": 11061.7,
           "elevation_gain": 66.0,
           "moving_time": 4056.0
+        },
+        "2026-05-11": {
+          "activity_ids": [
+            "18466524364"
+          ],
+          "count": 1,
+          "distance": 6780.0,
+          "elevation_gain": 79.0,
+          "moving_time": 2280.0
         }
       },
       "Soccer": {
@@ -4884,6 +4911,15 @@
           "distance": 43495.1,
           "elevation_gain": 65.0,
           "moving_time": 5113.0
+        },
+        "2026-05-11": {
+          "activity_ids": [
+            "18468614032"
+          ],
+          "count": 1,
+          "distance": 28080.3,
+          "elevation_gain": 44.0,
+          "moving_time": 3311.0
         }
       },
       "Walk": {
@@ -5641,7 +5677,7 @@
       }
     }
   },
-  "generated_at": "2026-05-11T17:23:58.466148+00:00",
+  "generated_at": "2026-05-12T17:10:02.414569+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",

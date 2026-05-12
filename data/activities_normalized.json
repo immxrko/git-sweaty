@@ -4067,5 +4067,31 @@
     "start_date_local": "2026-05-10T17:30:00Z",
     "type": "Soccer",
     "year": 2026
+  },
+  {
+    "date": "2026-05-11",
+    "distance": 6780.0,
+    "elevation_gain": 79.0,
+    "id": "18466524364",
+    "moving_time": 2280.0,
+    "name": "Marko 1:0 Gewitter",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-11T18:33:59Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-11",
+    "distance": 28080.3,
+    "elevation_gain": 44.0,
+    "id": "18468614032",
+    "moving_time": 3311.0,
+    "name": "Zwift - Lionel Sanders' Yellow Day Workout",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-11T21:26:53Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
