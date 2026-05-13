@@ -4093,5 +4093,57 @@
     "start_date_local": "2026-05-11T21:26:53Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18480993368",
+    "moving_time": 4048.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-12T19:13:13Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 5115.7,
+    "elevation_gain": 43.0,
+    "id": "18481763026",
+    "moving_time": 1821.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-12T20:41:56Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-13",
+    "distance": 7658.6,
+    "elevation_gain": 40.0,
+    "id": "18491547004",
+    "moving_time": 2544.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-13T15:53:20Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18493043024",
+    "moving_time": 6377.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-13T17:03:12Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
