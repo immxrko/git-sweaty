@@ -4145,5 +4145,57 @@
     "start_date_local": "2026-05-13T17:03:12Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18507597395",
+    "moving_time": 4347.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-14T18:57:43Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 46839.1,
+    "elevation_gain": 73.0,
+    "id": "18508919232",
+    "moving_time": 5418.0,
+    "name": "Zwift - Aerobic Foundation Marathon",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-14T20:58:11Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 29710.9,
+    "elevation_gain": 46.0,
+    "id": "18516530704",
+    "moving_time": 3383.0,
+    "name": "Zwift - Garmin UNBOUND Gravel Training Plan | Texaco Hill Tempo",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-15T14:07:59Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 6724.4,
+    "elevation_gain": 36.0,
+    "id": "18517074881",
+    "moving_time": 2341.0,
+    "name": "BRICK\ud83e\uddf1",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-15T15:11:37Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
