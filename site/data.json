@@ -2906,6 +2906,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18517074881",
       "year": 2026
+    },
+    {
+      "date": "2026-05-16",
+      "hour": 11,
+      "name": "Zwift - 2:15@Z2",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18528046466",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-16",
+      "hour": 14,
+      "name": "Walk mit Oma",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18529506295",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5037,6 +5055,15 @@
           "distance": 29710.9,
           "elevation_gain": 46.0,
           "moving_time": 3383.0
+        },
+        "2026-05-16": {
+          "activity_ids": [
+            "18528046466"
+          ],
+          "count": 1,
+          "distance": 68657.5,
+          "elevation_gain": 105.0,
+          "moving_time": 8107.0
         }
       },
       "Walk": {
@@ -5057,6 +5084,15 @@
           "distance": 3551.2,
           "elevation_gain": 13.0,
           "moving_time": 3580.0
+        },
+        "2026-05-16": {
+          "activity_ids": [
+            "18529506295"
+          ],
+          "count": 1,
+          "distance": 3524.7,
+          "elevation_gain": 24.0,
+          "moving_time": 2576.0
         }
       },
       "WeightTraining": {
@@ -5821,7 +5857,7 @@
       }
     }
   },
-  "generated_at": "2026-05-15T16:50:56.258041+00:00",
+  "generated_at": "2026-05-16T15:58:23.580596+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",

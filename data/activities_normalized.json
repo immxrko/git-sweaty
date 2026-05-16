@@ -4197,5 +4197,31 @@
     "start_date_local": "2026-05-15T15:11:37Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 68657.5,
+    "elevation_gain": 105.0,
+    "id": "18528046466",
+    "moving_time": 8107.0,
+    "name": "Zwift - 2:15@Z2",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-16T11:21:06Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 3524.7,
+    "elevation_gain": 24.0,
+    "id": "18529506295",
+    "moving_time": 2576.0,
+    "name": "Walk mit Oma",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-16T14:41:47Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
