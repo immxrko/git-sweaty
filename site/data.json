@@ -2924,6 +2924,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/18529506295",
       "year": 2026
+    },
+    {
+      "date": "2026-05-16",
+      "hour": 18,
+      "name": "RES vs. Brigittenau",
+      "subtype": "Soccer",
+      "type": "Soccer",
+      "url": "https://www.strava.com/activities/18534514188",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-17",
+      "hour": 10,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18538883581",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4437,6 +4455,15 @@
           "distance": 6724.4,
           "elevation_gain": 36.0,
           "moving_time": 2341.0
+        },
+        "2026-05-17": {
+          "activity_ids": [
+            "18538883581"
+          ],
+          "count": 1,
+          "distance": 5103.4,
+          "elevation_gain": 14.0,
+          "moving_time": 1900.0
         }
       },
       "Soccer": {
@@ -4522,6 +4549,15 @@
           "distance": 11000.0,
           "elevation_gain": 0.0,
           "moving_time": 7200.0
+        },
+        "2026-05-16": {
+          "activity_ids": [
+            "18534514188"
+          ],
+          "count": 1,
+          "distance": 8000.0,
+          "elevation_gain": 0.0,
+          "moving_time": 5400.0
         }
       },
       "VirtualRide": {
@@ -5857,7 +5893,7 @@
       }
     }
   },
-  "generated_at": "2026-05-16T15:58:23.580596+00:00",
+  "generated_at": "2026-05-17T15:58:33.870389+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
