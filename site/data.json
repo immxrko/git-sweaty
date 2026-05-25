@@ -2960,6 +2960,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18550416391",
       "year": 2026
+    },
+    {
+      "date": "2026-05-24",
+      "hour": 19,
+      "name": "Zwift - Recovery Ride \ud83d\ude37",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18638925632",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-25",
+      "hour": 15,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18648237648",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4491,6 +4509,15 @@
           "distance": 10047.5,
           "elevation_gain": 56.0,
           "moving_time": 3360.0
+        },
+        "2026-05-25": {
+          "activity_ids": [
+            "18648237648"
+          ],
+          "count": 1,
+          "distance": 6263.1,
+          "elevation_gain": 15.0,
+          "moving_time": 2224.0
         }
       },
       "Soccer": {
@@ -5127,6 +5154,15 @@
           "distance": 68657.5,
           "elevation_gain": 105.0,
           "moving_time": 8107.0
+        },
+        "2026-05-24": {
+          "activity_ids": [
+            "18638925632"
+          ],
+          "count": 1,
+          "distance": 24799.0,
+          "elevation_gain": 39.0,
+          "moving_time": 3006.0
         }
       },
       "Walk": {
@@ -5929,7 +5965,7 @@
       }
     }
   },
-  "generated_at": "2026-05-24T16:00:48.951687+00:00",
+  "generated_at": "2026-05-25T17:06:23.234749+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
