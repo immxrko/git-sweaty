@@ -4327,5 +4327,31 @@
     "start_date_local": "2026-05-27T17:17:09Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-28",
+    "distance": 25711.9,
+    "elevation_gain": 39.0,
+    "id": "18689382117",
+    "moving_time": 3006.0,
+    "name": "Zwift - 50min@Z2",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-28T15:05:35Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-28",
+    "distance": 5008.6,
+    "elevation_gain": 31.0,
+    "id": "18689741147",
+    "moving_time": 1490.0,
+    "name": "BRICK\ud83e\uddf1",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-28T16:00:22Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
