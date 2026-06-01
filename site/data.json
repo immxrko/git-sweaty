@@ -3050,6 +3050,15 @@
       "type": "Soccer",
       "url": "https://www.strava.com/activities/18731558934",
       "year": 2026
+    },
+    {
+      "date": "2026-06-01",
+      "hour": 16,
+      "name": "Schwimmen am Nachmittag",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/18742990144",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4731,6 +4740,15 @@
           "distance": 1500.0,
           "elevation_gain": 0.0,
           "moving_time": 1929.0
+        },
+        "2026-06-01": {
+          "activity_ids": [
+            "18742990144"
+          ],
+          "count": 1,
+          "distance": 1000.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1074.0
         }
       },
       "VirtualRide": {
@@ -6111,7 +6129,7 @@
       }
     }
   },
-  "generated_at": "2026-05-31T16:07:31.319041+00:00",
+  "generated_at": "2026-06-01T19:55:03.286418+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",

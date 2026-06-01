@@ -4405,5 +4405,18 @@
     "start_date_local": "2026-05-31T16:00:00Z",
     "type": "Soccer",
     "year": 2026
+  },
+  {
+    "date": "2026-06-01",
+    "distance": 1000.0,
+    "elevation_gain": 0.0,
+    "id": "18742990144",
+    "moving_time": 1074.0,
+    "name": "Schwimmen am Nachmittag",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-01T16:38:29Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
