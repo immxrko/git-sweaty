@@ -4418,5 +4418,18 @@
     "start_date_local": "2026-06-01T16:38:29Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 13938.3,
+    "elevation_gain": 80.0,
+    "id": "18757612496",
+    "moving_time": 2121.0,
+    "name": "Easy pre Race Spin",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-02T17:17:03Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
