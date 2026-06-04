@@ -3077,6 +3077,51 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18772033037",
       "year": 2026
+    },
+    {
+      "date": "2026-06-04",
+      "hour": 17,
+      "name": "Nachmittagstraining",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/18785773774",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-04",
+      "hour": 16,
+      "name": "Nachmittagstraining",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/18785773798",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-04",
+      "hour": 16,
+      "name": "Schwimmen am Nachmittag",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/18785773819",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-04",
+      "hour": 16,
+      "name": "Fahrt am Nachmittag",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18785773855",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-04",
+      "hour": 17,
+      "name": "Lauf am Nachmittag",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18785773871",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4455,6 +4500,15 @@
           "distance": 13938.3,
           "elevation_gain": 80.0,
           "moving_time": 2121.0
+        },
+        "2026-06-04": {
+          "activity_ids": [
+            "18785773855"
+          ],
+          "count": 1,
+          "distance": 18596.0,
+          "elevation_gain": 56.0,
+          "moving_time": 2457.0
         }
       },
       "Run": {
@@ -4655,6 +4709,15 @@
           "distance": 6944.4,
           "elevation_gain": 27.0,
           "moving_time": 2483.0
+        },
+        "2026-06-04": {
+          "activity_ids": [
+            "18785773871"
+          ],
+          "count": 1,
+          "distance": 5036.4,
+          "elevation_gain": 17.0,
+          "moving_time": 1484.0
         }
       },
       "Soccer": {
@@ -4787,6 +4850,15 @@
           "distance": 1000.0,
           "elevation_gain": 0.0,
           "moving_time": 1074.0
+        },
+        "2026-06-04": {
+          "activity_ids": [
+            "18785773819"
+          ],
+          "count": 1,
+          "distance": 858.1,
+          "elevation_gain": 0.0,
+          "moving_time": 1499.0
         }
       },
       "VirtualRide": {
@@ -6163,11 +6235,21 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 7200.0
+        },
+        "2026-06-04": {
+          "activity_ids": [
+            "18785773774",
+            "18785773798"
+          ],
+          "count": 2,
+          "distance": 314.1,
+          "elevation_gain": 0.0,
+          "moving_time": 178.0
         }
       }
     }
   },
-  "generated_at": "2026-06-03T18:42:10.132036+00:00",
+  "generated_at": "2026-06-04T17:45:25.267424+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",

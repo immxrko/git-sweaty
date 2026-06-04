@@ -4444,5 +4444,70 @@
     "start_date_local": "2026-06-03T17:16:41Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 129.5,
+    "elevation_gain": 0.0,
+    "id": "18785773774",
+    "moving_time": 59.0,
+    "name": "Nachmittagstraining",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-06-04T17:25:48Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 184.6,
+    "elevation_gain": 0.0,
+    "id": "18785773798",
+    "moving_time": 119.0,
+    "name": "Nachmittagstraining",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-06-04T16:40:23Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 858.1,
+    "elevation_gain": 0.0,
+    "id": "18785773819",
+    "moving_time": 1499.0,
+    "name": "Schwimmen am Nachmittag",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-04T16:15:13Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 18596.0,
+    "elevation_gain": 56.0,
+    "id": "18785773855",
+    "moving_time": 2457.0,
+    "name": "Fahrt am Nachmittag",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-04T16:44:50Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 5036.4,
+    "elevation_gain": 17.0,
+    "id": "18785773871",
+    "moving_time": 1484.0,
+    "name": "Lauf am Nachmittag",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-04T17:27:42Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
