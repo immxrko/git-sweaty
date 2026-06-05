@@ -3081,7 +3081,7 @@
     {
       "date": "2026-06-04",
       "hour": 17,
-      "name": "Nachmittagstraining",
+      "name": "Seestadt Triathlon T2",
       "subtype": "Workout",
       "type": "Workout",
       "url": "https://www.strava.com/activities/18785773774",
@@ -3090,7 +3090,7 @@
     {
       "date": "2026-06-04",
       "hour": 16,
-      "name": "Nachmittagstraining",
+      "name": "Seestadt Triathlon T1",
       "subtype": "Workout",
       "type": "Workout",
       "url": "https://www.strava.com/activities/18785773798",
@@ -3099,7 +3099,7 @@
     {
       "date": "2026-06-04",
       "hour": 16,
-      "name": "Schwimmen am Nachmittag",
+      "name": "Seestadt Triathlon Schwimmen",
       "subtype": "Swim",
       "type": "Swim",
       "url": "https://www.strava.com/activities/18785773819",
@@ -3108,7 +3108,7 @@
     {
       "date": "2026-06-04",
       "hour": 16,
-      "name": "Fahrt am Nachmittag",
+      "name": "Seestadt Triathlon Rad",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/18785773855",
@@ -3117,10 +3117,19 @@
     {
       "date": "2026-06-04",
       "hour": 17,
-      "name": "Lauf am Nachmittag",
+      "name": "Seestadt Triathlon Run",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/18785773871",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-05",
+      "hour": 15,
+      "name": "Gewichtstraining am Nachmittag",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18798416616",
       "year": 2026
     }
   ],
@@ -6224,6 +6233,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 5643.0
+        },
+        "2026-06-05": {
+          "activity_ids": [
+            "18798416616"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 7088.0
         }
       },
       "Workout": {
@@ -6249,7 +6267,7 @@
       }
     }
   },
-  "generated_at": "2026-06-04T17:45:25.267424+00:00",
+  "generated_at": "2026-06-05T17:14:12.571480+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
