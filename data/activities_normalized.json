@@ -4574,5 +4574,44 @@
     "start_date_local": "2026-06-09T15:33:54Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-09",
+    "distance": 26484.8,
+    "elevation_gain": 41.0,
+    "id": "18854213994",
+    "moving_time": 3012.0,
+    "name": "Zwift - 50min@Z2",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-09T19:09:13Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-10",
+    "distance": 5506.6,
+    "elevation_gain": 41.0,
+    "id": "18865332381",
+    "moving_time": 1675.0,
+    "name": "Lauf am Nachmittag",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-10T15:44:59Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-10",
+    "distance": 1575.0,
+    "elevation_gain": 0.0,
+    "id": "18867009601",
+    "moving_time": 1943.0,
+    "name": "Schwimmen am Nachmittag",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-10T17:44:09Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
