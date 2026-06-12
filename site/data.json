@@ -3194,6 +3194,15 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/18867009601",
       "year": 2026
+    },
+    {
+      "date": "2026-06-11",
+      "hour": 20,
+      "name": "RESTDAY MIT 90KM BIKE \u00dcBERRASCHT",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18883353789",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5554,6 +5563,15 @@
           "distance": 26484.8,
           "elevation_gain": 41.0,
           "moving_time": 3012.0
+        },
+        "2026-06-11": {
+          "activity_ids": [
+            "18883353789"
+          ],
+          "count": 1,
+          "distance": 91453.9,
+          "elevation_gain": 138.0,
+          "moving_time": 10802.0
         }
       },
       "Walk": {
@@ -6393,7 +6411,7 @@
       }
     }
   },
-  "generated_at": "2026-06-11T18:11:48.598581+00:00",
+  "generated_at": "2026-06-12T17:37:19.108693+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",

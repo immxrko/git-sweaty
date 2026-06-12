@@ -4613,5 +4613,18 @@
     "start_date_local": "2026-06-10T17:44:09Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-11",
+    "distance": 91453.9,
+    "elevation_gain": 138.0,
+    "id": "18883353789",
+    "moving_time": 10802.0,
+    "name": "RESTDAY MIT 90KM BIKE \u00dcBERRASCHT",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-11T20:25:46Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
