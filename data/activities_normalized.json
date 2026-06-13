@@ -4626,5 +4626,18 @@
     "start_date_local": "2026-06-11T20:25:46Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-13",
+    "distance": 8000.0,
+    "elevation_gain": 0.0,
+    "id": "18901504853",
+    "moving_time": 5400.0,
+    "name": "RES vs. Real Wien",
+    "raw_activity_type": "Soccer",
+    "raw_type": "Soccer",
+    "start_date_local": "2026-06-13T11:19:45Z",
+    "type": "Soccer",
+    "year": 2026
   }
 ]
