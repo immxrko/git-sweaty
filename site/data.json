@@ -3230,6 +3230,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18908256806",
       "year": 2026
+    },
+    {
+      "date": "2026-06-14",
+      "hour": 16,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18920954498",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-15",
+      "hour": 14,
+      "name": "Lauf am Nachmittag",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18929973156",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4635,6 +4653,15 @@
           "distance": 35949.8,
           "elevation_gain": 177.0,
           "moving_time": 5892.0
+        },
+        "2026-06-14": {
+          "activity_ids": [
+            "18920954498"
+          ],
+          "count": 1,
+          "distance": 76424.0,
+          "elevation_gain": 176.0,
+          "moving_time": 11224.0
         }
       },
       "Run": {
@@ -4871,6 +4898,15 @@
           "distance": 5506.6,
           "elevation_gain": 41.0,
           "moving_time": 1675.0
+        },
+        "2026-06-15": {
+          "activity_ids": [
+            "18929973156"
+          ],
+          "count": 1,
+          "distance": 15099.5,
+          "elevation_gain": 84.0,
+          "moving_time": 5223.0
         }
       },
       "Soccer": {
@@ -6465,7 +6501,7 @@
       }
     }
   },
-  "generated_at": "2026-06-14T16:20:43.278131+00:00",
+  "generated_at": "2026-06-15T19:02:53.606045+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
