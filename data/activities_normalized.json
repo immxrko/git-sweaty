@@ -4691,5 +4691,18 @@
     "start_date_local": "2026-06-15T14:59:47Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 35092.2,
+    "elevation_gain": 54.0,
+    "id": "18943143123",
+    "moving_time": 4204.0,
+    "name": "Zwift - 1:10",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-16T13:59:30Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

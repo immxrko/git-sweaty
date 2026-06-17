@@ -3248,6 +3248,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18929973156",
       "year": 2026
+    },
+    {
+      "date": "2026-06-16",
+      "hour": 13,
+      "name": "Zwift - 1:10",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18943143123",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5653,6 +5662,15 @@
           "distance": 91453.9,
           "elevation_gain": 138.0,
           "moving_time": 10802.0
+        },
+        "2026-06-16": {
+          "activity_ids": [
+            "18943143123"
+          ],
+          "count": 1,
+          "distance": 35092.2,
+          "elevation_gain": 54.0,
+          "moving_time": 4204.0
         }
       },
       "Walk": {
@@ -6501,7 +6519,7 @@
       }
     }
   },
-  "generated_at": "2026-06-15T19:02:53.606045+00:00",
+  "generated_at": "2026-06-17T17:49:04.645160+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
