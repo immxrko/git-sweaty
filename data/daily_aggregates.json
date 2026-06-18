@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T17:49:04.636180+00:00",
+  "generated_at": "2026-06-18T17:58:37.811982+00:00",
   "years": {
     "2025": {
       "Ride": {
@@ -1657,6 +1657,15 @@
           "distance": 15099.5,
           "elevation_gain": 84.0,
           "moving_time": 5223.0
+        },
+        "2026-06-18": {
+          "activity_ids": [
+            "18968901162"
+          ],
+          "count": 1,
+          "distance": 7086.9,
+          "elevation_gain": 48.0,
+          "moving_time": 2397.0
         }
       },
       "Soccer": {
@@ -1825,6 +1834,15 @@
           "distance": 1500.0,
           "elevation_gain": 0.0,
           "moving_time": 1996.0
+        },
+        "2026-06-17": {
+          "activity_ids": [
+            "18961349038"
+          ],
+          "count": 1,
+          "distance": 2050.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2945.0
         }
       },
       "VirtualRide": {
