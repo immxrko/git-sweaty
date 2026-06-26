@@ -4834,5 +4834,31 @@
     "start_date_local": "2026-06-25T11:07:16Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-26",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19074552508",
+    "moving_time": 3971.0,
+    "name": "Gewichtstraining am Nachmittag",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-26T15:40:22Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-26",
+    "distance": 38362.3,
+    "elevation_gain": 59.0,
+    "id": "19075449025",
+    "moving_time": 4653.0,
+    "name": "Zwift - 1:20@Z2",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-26T17:01:34Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
