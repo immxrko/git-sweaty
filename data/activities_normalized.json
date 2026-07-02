@@ -4925,5 +4925,44 @@
     "start_date_local": "2026-06-30T15:56:20Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-01",
+    "distance": 34230.3,
+    "elevation_gain": 53.0,
+    "id": "19141828579",
+    "moving_time": 4038.0,
+    "name": "Zwift - Openers",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-01T20:21:28Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-02",
+    "distance": 2000.0,
+    "elevation_gain": 0.0,
+    "id": "19151138688",
+    "moving_time": 2830.0,
+    "name": "Schwimmen am Nachmittag",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-07-02T15:30:54Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-02",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19152707747",
+    "moving_time": 3919.0,
+    "name": "Gewichtstraining am Nachmittag",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-02T17:35:36Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
