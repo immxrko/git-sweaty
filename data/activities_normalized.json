@@ -5068,5 +5068,18 @@
     "start_date_local": "2026-07-07T16:05:38Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-08",
+    "distance": 50878.1,
+    "elevation_gain": 79.0,
+    "id": "19230418769",
+    "moving_time": 6018.0,
+    "name": "Zwift - 1:40@Z2",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-08T16:03:09Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
