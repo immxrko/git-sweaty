@@ -5107,5 +5107,31 @@
     "start_date_local": "2026-07-09T16:08:53Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-10",
+    "distance": 2000.0,
+    "elevation_gain": 0.0,
+    "id": "19258705332",
+    "moving_time": 3182.0,
+    "name": "Evening Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-07-10T18:40:59Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-11",
+    "distance": 3218.4,
+    "elevation_gain": 271.0,
+    "id": "19269561993",
+    "moving_time": 1808.0,
+    "name": "Zwift - Activation",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-11T15:28:39Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
