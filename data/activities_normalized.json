@@ -5133,5 +5133,18 @@
     "start_date_local": "2026-07-11T15:28:39Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-12",
+    "distance": 105066.0,
+    "elevation_gain": 1128.0,
+    "id": "19281498078",
+    "moving_time": 17167.0,
+    "name": "Wachauer RADtage (Raiffeisen Power Radmarathon)",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-12T09:03:33Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
