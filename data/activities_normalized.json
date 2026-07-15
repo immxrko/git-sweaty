@@ -5159,5 +5159,31 @@
     "start_date_local": "2026-07-13T15:26:00Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-07-14",
+    "distance": 30966.3,
+    "elevation_gain": 124.0,
+    "id": "19313585045",
+    "moving_time": 3980.0,
+    "name": "Zwift - Over-Unders & Over-ATS",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-14T19:45:40Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-15",
+    "distance": 10560.0,
+    "elevation_gain": 59.0,
+    "id": "19325120474",
+    "moving_time": 3603.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-15T16:56:00Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

@@ -3572,6 +3572,24 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/19296176284",
       "year": 2026
+    },
+    {
+      "date": "2026-07-14",
+      "hour": 19,
+      "name": "Zwift - Over-Unders & Over-ATS",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19313585045",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-15",
+      "hour": 16,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19325120474",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5366,6 +5384,15 @@
           "distance": 5384.5,
           "elevation_gain": 30.0,
           "moving_time": 1827.0
+        },
+        "2026-07-15": {
+          "activity_ids": [
+            "19325120474"
+          ],
+          "count": 1,
+          "distance": 10560.0,
+          "elevation_gain": 59.0,
+          "moving_time": 3603.0
         }
       },
       "Soccer": {
@@ -6220,6 +6247,15 @@
           "distance": 3218.4,
           "elevation_gain": 271.0,
           "moving_time": 1808.0
+        },
+        "2026-07-14": {
+          "activity_ids": [
+            "19313585045"
+          ],
+          "count": 1,
+          "distance": 30966.3,
+          "elevation_gain": 124.0,
+          "moving_time": 3980.0
         }
       },
       "Walk": {
@@ -7149,7 +7185,7 @@
       }
     }
   },
-  "generated_at": "2026-07-14T16:13:02.958556+00:00",
+  "generated_at": "2026-07-15T16:20:54.188438+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
