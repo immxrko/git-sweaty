@@ -3590,6 +3590,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19325120474",
       "year": 2026
+    },
+    {
+      "date": "2026-07-16",
+      "hour": 15,
+      "name": "Gewichtstraining am Nachmittag",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19338212737",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-16",
+      "hour": 16,
+      "name": "Schwimmen am Nachmittag",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/19338212784",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5624,6 +5642,15 @@
           "distance": 1725.0,
           "elevation_gain": 0.0,
           "moving_time": 2584.0
+        },
+        "2026-07-16": {
+          "activity_ids": [
+            "19338212784"
+          ],
+          "count": 1,
+          "distance": 1700.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2371.0
         }
       },
       "VirtualRide": {
@@ -7160,6 +7187,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3210.0
+        },
+        "2026-07-16": {
+          "activity_ids": [
+            "19338212737"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3126.0
         }
       },
       "Workout": {
@@ -7185,7 +7221,7 @@
       }
     }
   },
-  "generated_at": "2026-07-15T16:20:54.188438+00:00",
+  "generated_at": "2026-07-16T16:16:26.852777+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
