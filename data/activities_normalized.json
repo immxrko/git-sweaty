@@ -5211,5 +5211,44 @@
     "start_date_local": "2026-07-16T16:47:32Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-07-17",
+    "distance": 22430.9,
+    "elevation_gain": 33.0,
+    "id": "19352548747",
+    "moving_time": 2711.0,
+    "name": "Zwift - EF Pro Cycling's Red Day Workout",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-17T18:38:58Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-18",
+    "distance": 61466.4,
+    "elevation_gain": 94.0,
+    "id": "19361389849",
+    "moving_time": 7207.0,
+    "name": "Zwift - Steady Horizon",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-18T11:11:51Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-18",
+    "distance": 4175.4,
+    "elevation_gain": 29.0,
+    "id": "19361742701",
+    "moving_time": 1202.0,
+    "name": "Brick Run \ud83e\uddf1",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-18T13:21:12Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
