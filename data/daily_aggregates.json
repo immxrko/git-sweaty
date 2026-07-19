@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T15:55:49.840246+00:00",
+  "generated_at": "2026-07-19T15:56:51.734161+00:00",
   "years": {
     "2025": {
       "Ride": {
@@ -1810,6 +1810,15 @@
           "distance": 4175.4,
           "elevation_gain": 29.0,
           "moving_time": 1202.0
+        },
+        "2026-07-19": {
+          "activity_ids": [
+            "19378604588"
+          ],
+          "count": 1,
+          "distance": 7502.4,
+          "elevation_gain": 40.0,
+          "moving_time": 2406.0
         }
       },
       "Soccer": {
