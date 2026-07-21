@@ -5289,5 +5289,18 @@
     "start_date_local": "2026-07-20T17:08:08Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-07-21",
+    "distance": 42577.8,
+    "elevation_gain": 65.0,
+    "id": "19403967067",
+    "moving_time": 5131.0,
+    "name": "Zwift - 15+4x12",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-21T14:55:11Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
