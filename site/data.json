@@ -3671,6 +3671,33 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/19403967067",
       "year": 2026
+    },
+    {
+      "date": "2026-07-22",
+      "hour": 17,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19420527451",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-23",
+      "hour": 11,
+      "name": "Shaun T 360 Abs",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/19429151095",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-23",
+      "hour": 16,
+      "name": "Gewichtstraining am Nachmittag",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19434000675",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5492,6 +5519,15 @@
           "distance": 7502.4,
           "elevation_gain": 40.0,
           "moving_time": 2406.0
+        },
+        "2026-07-22": {
+          "activity_ids": [
+            "19420527451"
+          ],
+          "count": 1,
+          "distance": 15327.8,
+          "elevation_gain": 72.0,
+          "moving_time": 5104.0
         }
       },
       "Soccer": {
@@ -7322,6 +7358,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1513.0
+        },
+        "2026-07-23": {
+          "activity_ids": [
+            "19434000675"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4687.0
         }
       },
       "Workout": {
@@ -7343,11 +7388,20 @@
           "distance": 314.1,
           "elevation_gain": 0.0,
           "moving_time": 178.0
+        },
+        "2026-07-23": {
+          "activity_ids": [
+            "19429151095"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1003.0
         }
       }
     }
   },
-  "generated_at": "2026-07-22T16:19:19.530292+00:00",
+  "generated_at": "2026-07-23T16:24:53.859460+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
