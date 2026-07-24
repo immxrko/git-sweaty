@@ -5271,10 +5271,10 @@
     "id": "19386778777",
     "moving_time": 1513.0,
     "name": "Mobility",
-    "raw_activity_type": "WeightTraining",
-    "raw_type": "WeightTraining",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
     "start_date_local": "2026-07-20T12:31:52Z",
-    "type": "WeightTraining",
+    "type": "Workout",
     "year": 2026
   },
   {
@@ -5324,9 +5324,9 @@
     "moving_time": 1003.0,
     "name": "Shaun T 360 Abs",
     "raw_activity_type": "Workout",
-    "raw_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
     "start_date_local": "2026-07-23T11:32:06Z",
-    "type": "Workout",
+    "type": "HighIntensityIntervalTraining",
     "year": 2026
   },
   {
@@ -5340,6 +5340,45 @@
     "raw_type": "WeightTraining",
     "start_date_local": "2026-07-23T16:54:13Z",
     "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-23",
+    "distance": 2400.0,
+    "elevation_gain": 0.0,
+    "id": "19435536528",
+    "moving_time": 3316.0,
+    "name": "Abendschwimmen",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-07-23T19:08:28Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19446218396",
+    "moving_time": 4782.0,
+    "name": "Gewichtstraining am Nachmittag",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-24T14:58:21Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-24",
+    "distance": 22479.3,
+    "elevation_gain": 287.0,
+    "id": "19447344294",
+    "moving_time": 3843.0,
+    "name": "Zwift - Recovery Ride",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-24T16:52:21Z",
+    "type": "VirtualRide",
     "year": 2026
   }
 ]

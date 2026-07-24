@@ -3649,8 +3649,8 @@
       "date": "2026-07-20",
       "hour": 12,
       "name": "Mobility",
-      "subtype": "WeightTraining",
-      "type": "WeightTraining",
+      "subtype": "Workout",
+      "type": "Workout",
       "url": "https://www.strava.com/activities/19386778777",
       "year": 2026
     },
@@ -3685,8 +3685,8 @@
       "date": "2026-07-23",
       "hour": 11,
       "name": "Shaun T 360 Abs",
-      "subtype": "Workout",
-      "type": "Workout",
+      "subtype": "HighIntensityIntervalTraining",
+      "type": "HighIntensityIntervalTraining",
       "url": "https://www.strava.com/activities/19429151095",
       "year": 2026
     },
@@ -3697,6 +3697,33 @@
       "subtype": "WeightTraining",
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/19434000675",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-23",
+      "hour": 19,
+      "name": "Abendschwimmen",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/19435536528",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-24",
+      "hour": 14,
+      "name": "Gewichtstraining am Nachmittag",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19446218396",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-24",
+      "hour": 16,
+      "name": "Zwift - Recovery Ride",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19447344294",
       "year": 2026
     }
   ],
@@ -5067,6 +5094,17 @@
           "moving_time": 322.0
         }
       },
+      "HighIntensityIntervalTraining": {
+        "2026-07-23": {
+          "activity_ids": [
+            "19429151095"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1003.0
+        }
+      },
       "Ride": {
         "2026-06-02": {
           "activity_ids": [
@@ -5777,6 +5815,15 @@
           "distance": 1800.0,
           "elevation_gain": 0.0,
           "moving_time": 2543.0
+        },
+        "2026-07-23": {
+          "activity_ids": [
+            "19435536528"
+          ],
+          "count": 1,
+          "distance": 2400.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3316.0
         }
       },
       "VirtualRide": {
@@ -6436,6 +6483,15 @@
           "distance": 42577.8,
           "elevation_gain": 65.0,
           "moving_time": 5131.0
+        },
+        "2026-07-24": {
+          "activity_ids": [
+            "19447344294"
+          ],
+          "count": 1,
+          "distance": 22479.3,
+          "elevation_gain": 287.0,
+          "moving_time": 3843.0
         }
       },
       "Walk": {
@@ -7350,15 +7406,6 @@
           "elevation_gain": 0.0,
           "moving_time": 3126.0
         },
-        "2026-07-20": {
-          "activity_ids": [
-            "19386778777"
-          ],
-          "count": 1,
-          "distance": 0.0,
-          "elevation_gain": 0.0,
-          "moving_time": 1513.0
-        },
         "2026-07-23": {
           "activity_ids": [
             "19434000675"
@@ -7367,6 +7414,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4687.0
+        },
+        "2026-07-24": {
+          "activity_ids": [
+            "19446218396"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4782.0
         }
       },
       "Workout": {
@@ -7389,19 +7445,19 @@
           "elevation_gain": 0.0,
           "moving_time": 178.0
         },
-        "2026-07-23": {
+        "2026-07-20": {
           "activity_ids": [
-            "19429151095"
+            "19386778777"
           ],
           "count": 1,
           "distance": 0.0,
           "elevation_gain": 0.0,
-          "moving_time": 1003.0
+          "moving_time": 1513.0
         }
       }
     }
   },
-  "generated_at": "2026-07-23T16:24:53.859460+00:00",
+  "generated_at": "2026-07-24T16:40:43.289630+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
@@ -7411,6 +7467,10 @@
     "AlpineSki": {
       "accent": "#72efdd",
       "label": "Alpine Ski"
+    },
+    "HighIntensityIntervalTraining": {
+      "accent": "#9b5de5",
+      "label": "HITT"
     },
     "Ride": {
       "accent": "#05ffa1",
@@ -7447,6 +7507,7 @@
   },
   "types": [
     "AlpineSki",
+    "HighIntensityIntervalTraining",
     "Ride",
     "Run",
     "Soccer",
