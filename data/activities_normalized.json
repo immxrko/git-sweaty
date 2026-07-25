@@ -5380,5 +5380,31 @@
     "start_date_local": "2026-07-24T16:52:21Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-25",
+    "distance": 5085.2,
+    "elevation_gain": 26.0,
+    "id": "19456463708",
+    "moving_time": 1509.0,
+    "name": "Brick Run \ud83e\uddf1",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-25T11:44:30Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-25",
+    "distance": 64616.4,
+    "elevation_gain": 606.0,
+    "id": "19456606433",
+    "moving_time": 10758.0,
+    "name": "Fahrt am Morgen",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-25T08:21:28Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
