@@ -5406,5 +5406,31 @@
     "start_date_local": "2026-07-25T08:21:28Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 10443.1,
+    "elevation_gain": 45.0,
+    "id": "19473773704",
+    "moving_time": 3257.0,
+    "name": "5x1000@Schwelle",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-26T15:22:39Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 1550.0,
+    "elevation_gain": 0.0,
+    "id": "19475116800",
+    "moving_time": 2134.0,
+    "name": "Schwimmen am Nachmittag",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-07-26T17:22:49Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
