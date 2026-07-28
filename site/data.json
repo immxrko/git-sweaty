@@ -3779,6 +3779,15 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/19487046874",
       "year": 2026
+    },
+    {
+      "date": "2026-07-28",
+      "hour": 16,
+      "name": "Zwift - Schwelle 3x10@90%",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19501992919",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6591,6 +6600,15 @@
           "distance": 22479.3,
           "elevation_gain": 287.0,
           "moving_time": 3843.0
+        },
+        "2026-07-28": {
+          "activity_ids": [
+            "19501992919"
+          ],
+          "count": 1,
+          "distance": 31604.4,
+          "elevation_gain": 48.0,
+          "moving_time": 3623.0
         }
       },
       "Walk": {
@@ -7565,7 +7583,7 @@
       }
     }
   },
-  "generated_at": "2026-07-27T16:55:52.205998+00:00",
+  "generated_at": "2026-07-28T16:39:56.195584+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
