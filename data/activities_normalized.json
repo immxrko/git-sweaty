@@ -5484,5 +5484,31 @@
     "start_date_local": "2026-07-29T16:21:45Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-30",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19525762151",
+    "moving_time": 1008.0,
+    "name": "Shaun T - 360 Abs",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-07-30T10:35:16Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-30",
+    "distance": 1925.0,
+    "elevation_gain": 0.0,
+    "id": "19529619429",
+    "moving_time": 2602.0,
+    "name": "Schwimmen am Nachmittag",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-07-30T15:25:36Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
