@@ -5523,5 +5523,57 @@
     "start_date_local": "2026-07-30T17:14:57Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-31",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19545809320",
+    "moving_time": 4331.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-31T18:59:22Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-31",
+    "distance": 22723.8,
+    "elevation_gain": 35.0,
+    "id": "19546482213",
+    "moving_time": 2715.0,
+    "name": "Zwift - Cadence Pyramid",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-07-31T20:35:05Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-01",
+    "distance": 50713.3,
+    "elevation_gain": 460.0,
+    "id": "19551980395",
+    "moving_time": 7866.0,
+    "name": "Fahrt am Morgen",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-01T07:53:07Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-01",
+    "distance": 3896.1,
+    "elevation_gain": 24.0,
+    "id": "19552545970",
+    "moving_time": 1202.0,
+    "name": "Brick Run \ud83e\uddf1",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-01T10:49:27Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
