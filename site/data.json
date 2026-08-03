@@ -3860,6 +3860,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19552545970",
       "year": 2026
+    },
+    {
+      "date": "2026-08-02",
+      "hour": 17,
+      "name": "4x1000@Schwelle",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19572337220",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-03",
+      "hour": 11,
+      "name": "Mobility",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/19579980267",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-03",
+      "hour": 15,
+      "name": "Schwimmen am Nachmittag",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/19583264480",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5764,6 +5791,15 @@
           "distance": 3896.1,
           "elevation_gain": 24.0,
           "moving_time": 1202.0
+        },
+        "2026-08-02": {
+          "activity_ids": [
+            "19572337220"
+          ],
+          "count": 1,
+          "distance": 8056.0,
+          "elevation_gain": 34.0,
+          "moving_time": 2435.0
         }
       },
       "Soccer": {
@@ -6049,6 +6085,15 @@
           "distance": 1925.0,
           "elevation_gain": 0.0,
           "moving_time": 2602.0
+        },
+        "2026-08-03": {
+          "activity_ids": [
+            "19583264480"
+          ],
+          "count": 1,
+          "distance": 1200.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1715.0
         }
       },
       "VirtualRide": {
@@ -7723,11 +7768,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1503.0
+        },
+        "2026-08-03": {
+          "activity_ids": [
+            "19579980267"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1501.0
         }
       }
     }
   },
-  "generated_at": "2026-08-02T15:59:52.972862+00:00",
+  "generated_at": "2026-08-03T17:08:02.798422+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
