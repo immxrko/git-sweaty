@@ -5614,5 +5614,18 @@
     "start_date_local": "2026-08-03T15:34:58Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-08-04",
+    "distance": 27720.3,
+    "elevation_gain": 43.0,
+    "id": "19600596951",
+    "moving_time": 3332.0,
+    "name": "Zwift - Pre-Race With Spin-Ups",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-04T18:27:12Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
