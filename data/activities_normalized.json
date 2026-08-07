@@ -5627,5 +5627,44 @@
     "start_date_local": "2026-08-04T18:27:12Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-05",
+    "distance": 5092.3,
+    "elevation_gain": 28.0,
+    "id": "19615055834",
+    "moving_time": 1815.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-05T18:12:37Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-06",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19626577893",
+    "moving_time": 906.0,
+    "name": "HIIT am Nachmittag",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-08-06T14:32:11Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-06",
+    "distance": 1000.0,
+    "elevation_gain": 0.0,
+    "id": "19627567445",
+    "moving_time": 1315.0,
+    "name": "Schwimmen am Nachmittag",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-06T15:32:25Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
