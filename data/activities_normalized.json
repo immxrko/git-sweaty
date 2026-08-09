@@ -5692,5 +5692,44 @@
     "start_date_local": "2026-08-08T09:55:30Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-09",
+    "distance": 37378.1,
+    "elevation_gain": 136.0,
+    "id": "19668041776",
+    "moving_time": 4594.0,
+    "name": "Gerasdorf Triathlon Bike",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-09T09:53:13Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-09",
+    "distance": 9501.1,
+    "elevation_gain": 19.7,
+    "id": "19668826088",
+    "moving_time": 3191.0,
+    "name": "Gerasdorf Triathlon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-09T11:12:45Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-09",
+    "distance": 1553.4,
+    "elevation_gain": 0.0,
+    "id": "19668841681",
+    "moving_time": 2883.0,
+    "name": "Gerasdorf Triathlon Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-09T09:00:36Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]

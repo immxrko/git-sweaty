@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T15:28:00.848889+00:00",
+  "generated_at": "2026-08-09T15:29:33.047543+00:00",
   "years": {
     "2025": {
       "Ride": {
@@ -1504,6 +1504,15 @@
           "distance": 12591.5,
           "elevation_gain": 64.0,
           "moving_time": 1801.0
+        },
+        "2026-08-09": {
+          "activity_ids": [
+            "19668041776"
+          ],
+          "count": 1,
+          "distance": 37378.1,
+          "elevation_gain": 136.0,
+          "moving_time": 4594.0
         }
       },
       "Run": {
@@ -1947,6 +1956,15 @@
           "distance": 4423.7,
           "elevation_gain": 30.0,
           "moving_time": 1512.0
+        },
+        "2026-08-09": {
+          "activity_ids": [
+            "19668826088"
+          ],
+          "count": 1,
+          "distance": 9501.1,
+          "elevation_gain": 19.7,
+          "moving_time": 3191.0
         }
       },
       "Soccer": {
@@ -2250,6 +2268,15 @@
           "distance": 1000.0,
           "elevation_gain": 0.0,
           "moving_time": 1315.0
+        },
+        "2026-08-09": {
+          "activity_ids": [
+            "19668841681"
+          ],
+          "count": 1,
+          "distance": 1553.4,
+          "elevation_gain": 0.0,
+          "moving_time": 2883.0
         }
       },
       "VirtualRide": {

@@ -3941,6 +3941,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19650360594",
       "year": 2026
+    },
+    {
+      "date": "2026-08-09",
+      "hour": 9,
+      "name": "Gerasdorf Triathlon Bike",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19668041776",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-09",
+      "hour": 11,
+      "name": "Gerasdorf Triathlon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19668826088",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-09",
+      "hour": 9,
+      "name": "Gerasdorf Triathlon Swim",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/19668841681",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5447,6 +5474,15 @@
           "distance": 12591.5,
           "elevation_gain": 64.0,
           "moving_time": 1801.0
+        },
+        "2026-08-09": {
+          "activity_ids": [
+            "19668041776"
+          ],
+          "count": 1,
+          "distance": 37378.1,
+          "elevation_gain": 136.0,
+          "moving_time": 4594.0
         }
       },
       "Run": {
@@ -5890,6 +5926,15 @@
           "distance": 4423.7,
           "elevation_gain": 30.0,
           "moving_time": 1512.0
+        },
+        "2026-08-09": {
+          "activity_ids": [
+            "19668826088"
+          ],
+          "count": 1,
+          "distance": 9501.1,
+          "elevation_gain": 19.7,
+          "moving_time": 3191.0
         }
       },
       "Soccer": {
@@ -6193,6 +6238,15 @@
           "distance": 1000.0,
           "elevation_gain": 0.0,
           "moving_time": 1315.0
+        },
+        "2026-08-09": {
+          "activity_ids": [
+            "19668841681"
+          ],
+          "count": 1,
+          "distance": 1553.4,
+          "elevation_gain": 0.0,
+          "moving_time": 2883.0
         }
       },
       "VirtualRide": {
@@ -7889,7 +7943,7 @@
       }
     }
   },
-  "generated_at": "2026-08-08T15:28:00.856556+00:00",
+  "generated_at": "2026-08-09T15:29:33.058221+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
