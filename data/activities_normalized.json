@@ -5731,5 +5731,31 @@
     "start_date_local": "2026-08-09T09:00:36Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-08-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19678915607",
+    "moving_time": 1436.0,
+    "name": "Mobility",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-08-10T11:55:21Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-10",
+    "distance": 1800.0,
+    "elevation_gain": 0.0,
+    "id": "19681798884",
+    "moving_time": 2525.0,
+    "name": "Schwimmen am Nachmittag",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-10T15:29:45Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]

@@ -3968,6 +3968,24 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/19668841681",
       "year": 2026
+    },
+    {
+      "date": "2026-08-10",
+      "hour": 11,
+      "name": "Mobility",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/19678915607",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-10",
+      "hour": 15,
+      "name": "Schwimmen am Nachmittag",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/19681798884",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6247,6 +6265,15 @@
           "distance": 1553.4,
           "elevation_gain": 0.0,
           "moving_time": 2883.0
+        },
+        "2026-08-10": {
+          "activity_ids": [
+            "19681798884"
+          ],
+          "count": 1,
+          "distance": 1800.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2525.0
         }
       },
       "VirtualRide": {
@@ -7939,11 +7966,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1501.0
+        },
+        "2026-08-10": {
+          "activity_ids": [
+            "19678915607"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1436.0
         }
       }
     }
   },
-  "generated_at": "2026-08-09T15:29:33.058221+00:00",
+  "generated_at": "2026-08-10T15:58:53.248540+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
