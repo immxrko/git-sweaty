@@ -3995,6 +3995,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/19697519418",
       "year": 2026
+    },
+    {
+      "date": "2026-08-11",
+      "hour": 18,
+      "name": "Technique",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/19699254578",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6283,6 +6292,15 @@
           "distance": 1800.0,
           "elevation_gain": 0.0,
           "moving_time": 2525.0
+        },
+        "2026-08-11": {
+          "activity_ids": [
+            "19699254578"
+          ],
+          "count": 1,
+          "distance": 1167.7,
+          "elevation_gain": 0.0,
+          "moving_time": 2172.0
         }
       },
       "VirtualRide": {
@@ -7997,7 +8015,7 @@
       }
     }
   },
-  "generated_at": "2026-08-11T16:00:04.791719+00:00",
+  "generated_at": "2026-08-12T15:57:47.807421+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
