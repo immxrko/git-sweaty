@@ -5835,5 +5835,57 @@
     "start_date_local": "2026-08-13T16:50:23Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-08-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19740955285",
+    "moving_time": 4210.0,
+    "name": "Gewichtstraining am Nachmittag",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-14T17:04:59Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-14",
+    "distance": 20268.0,
+    "elevation_gain": 32.0,
+    "id": "19741850953",
+    "moving_time": 2717.0,
+    "name": "Zwift - Smooth as Silk Active Recovery",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-14T18:54:17Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-15",
+    "distance": 63779.7,
+    "elevation_gain": 590.0,
+    "id": "19749441701",
+    "moving_time": 9163.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-15T08:49:51Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-15",
+    "distance": 3669.6,
+    "elevation_gain": 28.0,
+    "id": "19749885805",
+    "moving_time": 1202.0,
+    "name": "Brick Run \ud83e\uddf1",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-15T11:42:24Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

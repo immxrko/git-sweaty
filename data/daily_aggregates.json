@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T15:50:19.166144+00:00",
+  "generated_at": "2026-08-15T15:18:23.427390+00:00",
   "years": {
     "2025": {
       "Ride": {
@@ -1522,6 +1522,15 @@
           "distance": 37378.1,
           "elevation_gain": 136.0,
           "moving_time": 4594.0
+        },
+        "2026-08-15": {
+          "activity_ids": [
+            "19749441701"
+          ],
+          "count": 1,
+          "distance": 63779.7,
+          "elevation_gain": 590.0,
+          "moving_time": 9163.0
         }
       },
       "Run": {
@@ -1983,6 +1992,15 @@
           "distance": 15410.2,
           "elevation_gain": 83.0,
           "moving_time": 4809.0
+        },
+        "2026-08-15": {
+          "activity_ids": [
+            "19749885805"
+          ],
+          "count": 1,
+          "distance": 3669.6,
+          "elevation_gain": 28.0,
+          "moving_time": 1202.0
         }
       },
       "Soccer": {
@@ -3026,6 +3044,15 @@
           "distance": 42644.2,
           "elevation_gain": 65.0,
           "moving_time": 4812.0
+        },
+        "2026-08-14": {
+          "activity_ids": [
+            "19741850953"
+          ],
+          "count": 1,
+          "distance": 20268.0,
+          "elevation_gain": 32.0,
+          "moving_time": 2717.0
         }
       },
       "Walk": {
@@ -3984,6 +4011,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3672.0
+        },
+        "2026-08-14": {
+          "activity_ids": [
+            "19740955285"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4210.0
         }
       },
       "Workout": {
