@@ -5887,5 +5887,44 @@
     "start_date_local": "2026-08-15T11:42:24Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 10326.8,
+    "elevation_gain": 46.0,
+    "id": "19769762080",
+    "moving_time": 3297.0,
+    "name": "5x1000@Schwelle",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-16T17:59:08Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19778715021",
+    "moving_time": 1393.0,
+    "name": "Mobility",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-08-17T14:01:48Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-17",
+    "distance": 1900.0,
+    "elevation_gain": 0.0,
+    "id": "19780042680",
+    "moving_time": 2758.0,
+    "name": "Schwimmen am Nachmittag",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-17T15:27:20Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
