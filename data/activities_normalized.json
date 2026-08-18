@@ -5926,5 +5926,18 @@
     "start_date_local": "2026-08-17T15:27:20Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-08-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19794791767",
+    "moving_time": 906.0,
+    "name": "HIIT am Nachmittag",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-08-18T16:13:46Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
   }
 ]
