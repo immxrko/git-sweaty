@@ -5939,5 +5939,18 @@
     "start_date_local": "2026-08-18T16:13:46Z",
     "type": "HighIntensityIntervalTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-18",
+    "distance": 53722.4,
+    "elevation_gain": 83.0,
+    "id": "19797695696",
+    "moving_time": 5717.0,
+    "name": "Zwift - 4x15@Schwelle",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-18T18:19:28Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

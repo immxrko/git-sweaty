@@ -4112,6 +4112,15 @@
       "type": "HighIntensityIntervalTraining",
       "url": "https://www.strava.com/activities/19794791767",
       "year": 2026
+    },
+    {
+      "date": "2026-08-18",
+      "hour": 18,
+      "name": "Zwift - 4x15@Schwelle",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/19797695696",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7194,6 +7203,15 @@
           "distance": 20268.0,
           "elevation_gain": 32.0,
           "moving_time": 2717.0
+        },
+        "2026-08-18": {
+          "activity_ids": [
+            "19797695696"
+          ],
+          "count": 1,
+          "distance": 53722.4,
+          "elevation_gain": 83.0,
+          "moving_time": 5717.0
         }
       },
       "Walk": {
@@ -8231,7 +8249,7 @@
       }
     }
   },
-  "generated_at": "2026-08-18T15:30:00.070138+00:00",
+  "generated_at": "2026-08-19T15:29:29.887385+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
