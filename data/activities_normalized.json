@@ -5952,5 +5952,57 @@
     "start_date_local": "2026-08-18T18:19:28Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-19",
+    "distance": 18433.1,
+    "elevation_gain": 90.0,
+    "id": "19811209418",
+    "moving_time": 6003.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-19T16:24:35Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-20",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19822276782",
+    "moving_time": 916.0,
+    "name": "HIIT am Nachmittag",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-08-20T13:37:38Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-20",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19823707393",
+    "moving_time": 3608.0,
+    "name": "Gewichtstraining am Nachmittag",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-20T14:45:41Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-20",
+    "distance": 2400.0,
+    "elevation_gain": 0.0,
+    "id": "19824741029",
+    "moving_time": 3481.0,
+    "name": "Schwimmen am Nachmittag",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-20T16:13:49Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
