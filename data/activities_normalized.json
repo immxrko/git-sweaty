@@ -6004,5 +6004,31 @@
     "start_date_local": "2026-08-20T16:13:49Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-08-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19840066035",
+    "moving_time": 4465.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-21T18:20:02Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-21",
+    "distance": 20110.3,
+    "elevation_gain": 32.0,
+    "id": "19841386596",
+    "moving_time": 2737.0,
+    "name": "Zwift - Smooth as Silk Active Recovery",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-21T21:07:31Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
