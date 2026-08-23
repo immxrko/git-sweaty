@@ -6030,5 +6030,31 @@
     "start_date_local": "2026-08-21T21:07:31Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-22",
+    "distance": 112896.0,
+    "elevation_gain": 172.0,
+    "id": "19854254424",
+    "moving_time": 12614.0,
+    "name": "Zwift - Long+60min@RacePace",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-22T15:47:12Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-22",
+    "distance": 5042.9,
+    "elevation_gain": 32.0,
+    "id": "19854681616",
+    "moving_time": 1538.0,
+    "name": "Brick Run \ud83e\uddf1",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-22T19:37:06Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
