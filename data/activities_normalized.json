@@ -6056,5 +6056,31 @@
     "start_date_local": "2026-08-22T19:37:06Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-23",
+    "distance": 10365.3,
+    "elevation_gain": 47.0,
+    "id": "19868109740",
+    "moving_time": 3186.0,
+    "name": "6x1000@Schwelle",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-23T17:46:07Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19879467218",
+    "moving_time": 902.0,
+    "name": "Afternoon HIIT",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-08-24T17:09:27Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
   }
 ]
