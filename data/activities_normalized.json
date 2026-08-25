@@ -6082,5 +6082,44 @@
     "start_date_local": "2026-08-24T17:09:27Z",
     "type": "HighIntensityIntervalTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19879776508",
+    "moving_time": 1204.0,
+    "name": "Mobility",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-08-24T17:29:01Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-24",
+    "distance": 1200.0,
+    "elevation_gain": 0.0,
+    "id": "19882642892",
+    "moving_time": 2400.0,
+    "name": "coach-led Session",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-24T19:00:00Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-25",
+    "distance": 38549.0,
+    "elevation_gain": 59.0,
+    "id": "19893309359",
+    "moving_time": 4215.0,
+    "name": "Zwift - 2x20@Schwelle",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-08-25T14:39:58Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
