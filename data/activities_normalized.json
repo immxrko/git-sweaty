@@ -6121,5 +6121,31 @@
     "start_date_local": "2026-08-25T14:39:58Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-25",
+    "distance": 1100.0,
+    "elevation_gain": 0.0,
+    "id": "19897897402",
+    "moving_time": 1171.0,
+    "name": "coach-led Session",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-25T20:02:34Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-26",
+    "distance": 8586.6,
+    "elevation_gain": 38.0,
+    "id": "19909758708",
+    "moving_time": 3014.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-26T16:29:10Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
