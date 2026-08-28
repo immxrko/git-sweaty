@@ -6147,5 +6147,44 @@
     "start_date_local": "2026-08-26T16:29:10Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-27",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19921497445",
+    "moving_time": 928.0,
+    "name": "Afternoon HIIT",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-08-27T13:41:57Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-27",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19923295655",
+    "moving_time": 3674.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-27T15:23:25Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-27",
+    "distance": 800.0,
+    "elevation_gain": 0.0,
+    "id": "19926292527",
+    "moving_time": 965.0,
+    "name": "coach-led Session",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-27T19:02:36Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
