@@ -6186,5 +6186,18 @@
     "start_date_local": "2026-08-27T19:02:36Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-08-28",
+    "distance": 1625.0,
+    "elevation_gain": 0.0,
+    "id": "19939388007",
+    "moving_time": 1761.0,
+    "name": "coach-led Session",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-28T19:02:59Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
