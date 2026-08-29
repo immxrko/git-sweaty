@@ -6199,5 +6199,31 @@
     "start_date_local": "2026-08-28T19:02:59Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-08-29",
+    "distance": 950.0,
+    "elevation_gain": 0.0,
+    "id": "19945144948",
+    "moving_time": 1440.0,
+    "name": "coach-led Session",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-29T09:00:39Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19950018226",
+    "moving_time": 4033.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-29T15:08:19Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
