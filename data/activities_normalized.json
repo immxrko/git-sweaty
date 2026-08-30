@@ -6225,5 +6225,31 @@
     "start_date_local": "2026-08-29T15:08:19Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-30",
+    "distance": 83110.3,
+    "elevation_gain": 269.0,
+    "id": "19961007898",
+    "moving_time": 10893.0,
+    "name": "70.3 Race Sim",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-30T09:13:02Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-30",
+    "distance": 4701.7,
+    "elevation_gain": 27.0,
+    "id": "19961568629",
+    "moving_time": 1496.0,
+    "name": "Brick Run\ud83e\uddf1",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-30T12:51:42Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

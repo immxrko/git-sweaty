@@ -4310,6 +4310,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/19950018226",
       "year": 2026
+    },
+    {
+      "date": "2026-08-30",
+      "hour": 9,
+      "name": "70.3 Race Sim",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19961007898",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-30",
+      "hour": 12,
+      "name": "Brick Run\ud83e\uddf1",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19961568629",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5879,6 +5897,15 @@
           "distance": 63779.7,
           "elevation_gain": 590.0,
           "moving_time": 9163.0
+        },
+        "2026-08-30": {
+          "activity_ids": [
+            "19961007898"
+          ],
+          "count": 1,
+          "distance": 83110.3,
+          "elevation_gain": 269.0,
+          "moving_time": 10893.0
         }
       },
       "Run": {
@@ -6394,6 +6421,15 @@
           "distance": 8586.6,
           "elevation_gain": 38.0,
           "moving_time": 3014.0
+        },
+        "2026-08-30": {
+          "activity_ids": [
+            "19961568629"
+          ],
+          "count": 1,
+          "distance": 4701.7,
+          "elevation_gain": 27.0,
+          "moving_time": 1496.0
         }
       },
       "Soccer": {
@@ -8627,7 +8663,7 @@
       }
     }
   },
-  "generated_at": "2026-08-29T18:10:51.822894+00:00",
+  "generated_at": "2026-08-30T18:24:54.228650+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
