@@ -6251,5 +6251,18 @@
     "start_date_local": "2026-08-30T12:51:42Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-31",
+    "distance": 13367.9,
+    "elevation_gain": 75.0,
+    "id": "19976119371",
+    "moving_time": 3967.0,
+    "name": "70.3 Race Pace Sim",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-31T14:32:12Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
