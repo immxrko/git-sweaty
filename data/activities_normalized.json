@@ -6277,5 +6277,18 @@
     "start_date_local": "2026-09-01T19:04:47Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-09-02",
+    "distance": 29393.4,
+    "elevation_gain": 46.0,
+    "id": "20006871414",
+    "moving_time": 3321.0,
+    "name": "Zwift - 3x8@Schwelle",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-02T16:29:09Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
