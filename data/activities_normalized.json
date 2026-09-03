@@ -6290,5 +6290,31 @@
     "start_date_local": "2026-09-02T16:29:09Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20019098178",
+    "moving_time": 904.0,
+    "name": "HIIT am Nachmittag",
+    "raw_activity_type": "Workout",
+    "raw_type": "HighIntensityIntervalTraining",
+    "start_date_local": "2026-09-03T14:05:22Z",
+    "type": "HighIntensityIntervalTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-03",
+    "distance": 11012.9,
+    "elevation_gain": 72.0,
+    "id": "20020645513",
+    "moving_time": 3609.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-03T15:23:17Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
