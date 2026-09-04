@@ -6316,5 +6316,18 @@
     "start_date_local": "2026-09-03T15:23:17Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-04",
+    "distance": 1600.0,
+    "elevation_gain": 0.0,
+    "id": "20036020885",
+    "moving_time": 2127.0,
+    "name": "Abendschwimmen",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-09-04T18:29:50Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
