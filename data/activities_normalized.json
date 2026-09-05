@@ -6329,5 +6329,44 @@
     "start_date_local": "2026-09-04T18:29:50Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-09-04",
+    "distance": 17700.5,
+    "elevation_gain": 28.0,
+    "id": "20037847837",
+    "moving_time": 2419.0,
+    "name": "Zwift - Smooth as Silk Active Recovery",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-04T21:30:43Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-05",
+    "distance": 57244.2,
+    "elevation_gain": 88.0,
+    "id": "20049427675",
+    "moving_time": 6618.0,
+    "name": "Zwift - 110min@Z2",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-09-05T16:07:43Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-05",
+    "distance": 3948.9,
+    "elevation_gain": 32.0,
+    "id": "20049861582",
+    "moving_time": 1205.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-05T18:08:40Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
