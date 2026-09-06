@@ -6362,10 +6362,23 @@
     "elevation_gain": 32.0,
     "id": "20049861582",
     "moving_time": 1205.0,
-    "name": "Evening Run",
+    "name": "Brick Run \ud83e\uddf1",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-09-05T18:08:40Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-06",
+    "distance": 6382.9,
+    "elevation_gain": 34.0,
+    "id": "20060681013",
+    "moving_time": 1925.0,
+    "name": "3x1000@Schwelle",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-06T14:05:58Z",
     "type": "Run",
     "year": 2026
   }

@@ -4404,10 +4404,19 @@
     {
       "date": "2026-09-05",
       "hour": 18,
-      "name": "Evening Run",
+      "name": "Brick Run \ud83e\uddf1",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/20049861582",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-06",
+      "hour": 14,
+      "name": "3x1000@Schwelle",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20060681013",
       "year": 2026
     }
   ],
@@ -6547,6 +6556,15 @@
           "distance": 3948.9,
           "elevation_gain": 32.0,
           "moving_time": 1205.0
+        },
+        "2026-09-06": {
+          "activity_ids": [
+            "20060681013"
+          ],
+          "count": 1,
+          "distance": 6382.9,
+          "elevation_gain": 34.0,
+          "moving_time": 1925.0
         }
       },
       "Soccer": {
@@ -8825,7 +8843,7 @@
       }
     }
   },
-  "generated_at": "2026-09-05T17:09:18.935156+00:00",
+  "generated_at": "2026-09-06T17:30:51.381175+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
