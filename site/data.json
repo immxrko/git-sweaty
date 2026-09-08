@@ -4436,6 +4436,15 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/20074245101",
       "year": 2026
+    },
+    {
+      "date": "2026-09-08",
+      "hour": 19,
+      "name": "Zwift - Opener",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20092140740",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7788,6 +7797,15 @@
           "distance": 57244.2,
           "elevation_gain": 88.0,
           "moving_time": 6618.0
+        },
+        "2026-09-08": {
+          "activity_ids": [
+            "20092140740"
+          ],
+          "count": 1,
+          "distance": 18056.0,
+          "elevation_gain": 28.0,
+          "moving_time": 2114.0
         }
       },
       "Walk": {
@@ -8879,7 +8897,7 @@
       }
     }
   },
-  "generated_at": "2026-09-07T19:00:09.089717+00:00",
+  "generated_at": "2026-09-08T18:19:11.239207+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
