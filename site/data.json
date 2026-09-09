@@ -4445,6 +4445,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20092140740",
       "year": 2026
+    },
+    {
+      "date": "2026-09-09",
+      "hour": 19,
+      "name": "Abendlauf",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20106729779",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6592,6 +6601,15 @@
           "distance": 6382.9,
           "elevation_gain": 34.0,
           "moving_time": 1925.0
+        },
+        "2026-09-09": {
+          "activity_ids": [
+            "20106729779"
+          ],
+          "count": 1,
+          "distance": 5265.7,
+          "elevation_gain": 28.0,
+          "moving_time": 1805.0
         }
       },
       "Soccer": {
@@ -8897,7 +8915,7 @@
       }
     }
   },
-  "generated_at": "2026-09-08T18:19:11.239207+00:00",
+  "generated_at": "2026-09-09T18:18:55.780384+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
