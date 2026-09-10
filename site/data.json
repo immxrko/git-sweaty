@@ -4454,6 +4454,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20106729779",
       "year": 2026
+    },
+    {
+      "date": "2026-09-10",
+      "hour": 15,
+      "name": "Schwimmen am Nachmittag",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/20117148395",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7039,6 +7048,15 @@
           "distance": 1025.0,
           "elevation_gain": 0.0,
           "moving_time": 1379.0
+        },
+        "2026-09-10": {
+          "activity_ids": [
+            "20117148395"
+          ],
+          "count": 1,
+          "distance": 1025.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1375.0
         }
       },
       "VirtualRide": {
@@ -8915,7 +8933,7 @@
       }
     }
   },
-  "generated_at": "2026-09-09T18:18:55.780384+00:00",
+  "generated_at": "2026-09-10T18:06:31.250760+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
