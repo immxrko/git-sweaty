@@ -6446,5 +6446,18 @@
     "start_date_local": "2026-09-10T15:31:11Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-09-11",
+    "distance": 5149.9,
+    "elevation_gain": 5.0,
+    "id": "20132648491",
+    "moving_time": 1616.0,
+    "name": "Shakeout",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-11T18:26:57Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
