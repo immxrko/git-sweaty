@@ -6459,5 +6459,44 @@
     "start_date_local": "2026-09-11T18:26:57Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20139238126",
+    "moving_time": 1092.0,
+    "name": "Mobility",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-09-12T09:26:59Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-12",
+    "distance": 7419.8,
+    "elevation_gain": 17.0,
+    "id": "20140919235",
+    "moving_time": 1303.0,
+    "name": "1. platter 1 Tag vor Race \u2705",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-12T10:54:40Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-12",
+    "distance": 343.9,
+    "elevation_gain": 0.0,
+    "id": "20144175369",
+    "moving_time": 478.0,
+    "name": "Course Check",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-09-12T15:29:54Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
