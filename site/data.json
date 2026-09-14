@@ -4521,7 +4521,7 @@
     {
       "date": "2026-09-13",
       "hour": 7,
-      "name": "Morning Swim",
+      "name": "Ironman 70.3 Belgrade Swim",
       "subtype": "Swim",
       "type": "Swim",
       "url": "https://www.strava.com/activities/20157400267",
@@ -4530,7 +4530,7 @@
     {
       "date": "2026-09-13",
       "hour": 11,
-      "name": "Lunch Run",
+      "name": "Ironman 70.3 Belgrade Run",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/20157400301",
@@ -4539,7 +4539,7 @@
     {
       "date": "2026-09-13",
       "hour": 8,
-      "name": "Morning Ride",
+      "name": "Ironman 70.3 Belgrade Bike",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/20157400302",
@@ -9097,7 +9097,7 @@
       }
     }
   },
-  "generated_at": "2026-09-13T17:55:15.312843+00:00",
+  "generated_at": "2026-09-14T19:44:03.039924+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
