@@ -6589,5 +6589,18 @@
     "start_date_local": "2026-09-15T10:47:34Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-09-16",
+    "distance": 3910.0,
+    "elevation_gain": 0.0,
+    "id": "20197226769",
+    "moving_time": 1209.0,
+    "name": "Mittagslauf",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-16T12:37:51Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
