@@ -6693,5 +6693,31 @@
     "start_date_local": "2026-09-25T18:56:50Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-09-26",
+    "distance": 4338.0,
+    "elevation_gain": 32.0,
+    "id": "20338977364",
+    "moving_time": 1703.0,
+    "name": "Shakeout",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-26T16:43:52Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-26",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20341188973",
+    "moving_time": 1192.0,
+    "name": "Mobility",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-09-26T17:37:39Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
