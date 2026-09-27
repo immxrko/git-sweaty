@@ -6719,5 +6719,18 @@
     "start_date_local": "2026-09-26T17:37:39Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-09-27",
+    "distance": 42548.3,
+    "elevation_gain": 167.0,
+    "id": "20349798904",
+    "moving_time": 12906.0,
+    "name": "W\u00f6rthersee Marathon",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-27T09:30:14Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
