@@ -4733,6 +4733,24 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/20491999279",
       "year": 2026
+    },
+    {
+      "date": "2026-10-09",
+      "hour": 18,
+      "name": "3x1000@Schwelle",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20518056092",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-09",
+      "hour": 20,
+      "name": "Gewichtstraining am Abend",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/20518981868",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7007,6 +7025,15 @@
           "distance": 8261.6,
           "elevation_gain": 37.0,
           "moving_time": 2919.0
+        },
+        "2026-10-09": {
+          "activity_ids": [
+            "20518056092"
+          ],
+          "count": 1,
+          "distance": 7030.0,
+          "elevation_gain": 32.0,
+          "moving_time": 2080.0
         }
       },
       "Soccer": {
@@ -9350,6 +9377,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3672.0
+        },
+        "2026-10-09": {
+          "activity_ids": [
+            "20518981868"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3522.0
         }
       },
       "Workout": {
@@ -9457,7 +9493,7 @@
       }
     }
   },
-  "generated_at": "2026-10-08T20:30:12.788642+00:00",
+  "generated_at": "2026-10-09T19:59:57.954709+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
