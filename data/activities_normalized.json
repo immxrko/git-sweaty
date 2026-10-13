@@ -6901,5 +6901,18 @@
     "start_date_local": "2026-10-12T17:13:54Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-10-13",
+    "distance": 6345.9,
+    "elevation_gain": 30.0,
+    "id": "20566904165",
+    "moving_time": 1836.0,
+    "name": "3x1000@Schwelle",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-13T13:36:06Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

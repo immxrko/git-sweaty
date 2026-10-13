@@ -4778,6 +4778,15 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/20556305105",
       "year": 2026
+    },
+    {
+      "date": "2026-10-13",
+      "hour": 13,
+      "name": "3x1000@Schwelle",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20566904165",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7070,6 +7079,15 @@
           "distance": 7505.3,
           "elevation_gain": 29.0,
           "moving_time": 2432.0
+        },
+        "2026-10-13": {
+          "activity_ids": [
+            "20566904165"
+          ],
+          "count": 1,
+          "distance": 6345.9,
+          "elevation_gain": 30.0,
+          "moving_time": 1836.0
         }
       },
       "Soccer": {
@@ -9547,7 +9565,7 @@
       }
     }
   },
-  "generated_at": "2026-10-12T22:23:37.883696+00:00",
+  "generated_at": "2026-10-13T20:30:12.573474+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
