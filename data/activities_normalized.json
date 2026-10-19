@@ -6940,5 +6940,18 @@
     "start_date_local": "2026-10-16T16:22:11Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-19",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20651760992",
+    "moving_time": 4819.0,
+    "name": "Gewichtstraining am Abend",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-10-19T20:19:01Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
