@@ -6953,5 +6953,18 @@
     "start_date_local": "2026-10-19T20:19:01Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-10-20",
+    "distance": 31637.6,
+    "elevation_gain": 183.0,
+    "id": "20661630367",
+    "moving_time": 3862.0,
+    "name": "Zwift - High Endurance Blocks",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-20T15:29:09Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
