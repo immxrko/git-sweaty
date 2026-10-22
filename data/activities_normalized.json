@@ -6966,5 +6966,31 @@
     "start_date_local": "2026-10-20T15:29:09Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20679679624",
+    "moving_time": 6103.0,
+    "name": "Gewichtstraining am Abend",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-10-21T20:27:01Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-22",
+    "distance": 8128.5,
+    "elevation_gain": 46.0,
+    "id": "20688771808",
+    "moving_time": 2414.0,
+    "name": "5x800@Schwelle",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-22T15:38:35Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

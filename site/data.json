@@ -4823,6 +4823,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20661630367",
       "year": 2026
+    },
+    {
+      "date": "2026-10-21",
+      "hour": 20,
+      "name": "Gewichtstraining am Abend",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/20679679624",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-22",
+      "hour": 15,
+      "name": "5x800@Schwelle",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20688771808",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7133,6 +7151,15 @@
           "distance": 8037.2,
           "elevation_gain": 47.0,
           "moving_time": 2721.0
+        },
+        "2026-10-22": {
+          "activity_ids": [
+            "20688771808"
+          ],
+          "count": 1,
+          "distance": 8128.5,
+          "elevation_gain": 46.0,
+          "moving_time": 2414.0
         }
       },
       "Soccer": {
@@ -9530,6 +9557,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4819.0
+        },
+        "2026-10-21": {
+          "activity_ids": [
+            "20679679624"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 6103.0
         }
       },
       "Workout": {
@@ -9637,7 +9673,7 @@
       }
     }
   },
-  "generated_at": "2026-10-21T19:06:35.436626+00:00",
+  "generated_at": "2026-10-22T19:03:05.227473+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
