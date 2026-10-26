@@ -7005,5 +7005,44 @@
     "start_date_local": "2026-10-23T20:54:22Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-10-25",
+    "distance": 32061.5,
+    "elevation_gain": 52.0,
+    "id": "20729889977",
+    "moving_time": 3611.0,
+    "name": "Zwift - High Endurance Blocks",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-25T18:44:23Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-26",
+    "distance": 1200.0,
+    "elevation_gain": 0.0,
+    "id": "20736443532",
+    "moving_time": 1476.0,
+    "name": "Mittagschwimmen",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-10-26T12:25:05Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-26",
+    "distance": 8128.0,
+    "elevation_gain": 53.0,
+    "id": "20739280708",
+    "moving_time": 2706.0,
+    "name": "Lauf am Nachmittag",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-26T16:40:53Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
