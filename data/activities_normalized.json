@@ -7044,5 +7044,31 @@
     "start_date_local": "2026-10-26T16:40:53Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-27",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20751900850",
+    "moving_time": 4356.0,
+    "name": "Gewichtstraining am Nachmittag",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-10-27T14:37:07Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-27",
+    "distance": 14684.1,
+    "elevation_gain": 25.0,
+    "id": "20752939243",
+    "moving_time": 1808.0,
+    "name": "Zwift - Pedaling Drills",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-27T16:49:21Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
