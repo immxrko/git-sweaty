@@ -4895,6 +4895,33 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20752939243",
       "year": 2026
+    },
+    {
+      "date": "2026-10-28",
+      "hour": 11,
+      "name": "4x1000@Schwelle",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20763410380",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-28",
+      "hour": 15,
+      "name": "Zwift - Norwegian Method Endurance",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20766233633",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-28",
+      "hour": 18,
+      "name": "Abendschwimmen",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/20768674667",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7223,6 +7250,15 @@
           "distance": 8128.0,
           "elevation_gain": 53.0,
           "moving_time": 2706.0
+        },
+        "2026-10-28": {
+          "activity_ids": [
+            "20763410380"
+          ],
+          "count": 1,
+          "distance": 7401.0,
+          "elevation_gain": 37.0,
+          "moving_time": 2195.0
         }
       },
       "Soccer": {
@@ -7733,6 +7769,15 @@
           "distance": 1200.0,
           "elevation_gain": 0.0,
           "moving_time": 1476.0
+        },
+        "2026-10-28": {
+          "activity_ids": [
+            "20768674667"
+          ],
+          "count": 1,
+          "distance": 1500.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1831.0
         }
       },
       "VirtualRide": {
@@ -8545,6 +8590,15 @@
           "distance": 14684.1,
           "elevation_gain": 25.0,
           "moving_time": 1808.0
+        },
+        "2026-10-28": {
+          "activity_ids": [
+            "20766233633"
+          ],
+          "count": 1,
+          "distance": 33618.3,
+          "elevation_gain": 53.0,
+          "moving_time": 3861.0
         }
       },
       "Walk": {
@@ -9781,7 +9835,7 @@
       }
     }
   },
-  "generated_at": "2026-10-27T19:49:17.432064+00:00",
+  "generated_at": "2026-10-28T20:04:55.061115+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
