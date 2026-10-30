@@ -7135,5 +7135,18 @@
     "start_date_local": "2026-10-29T14:17:23Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-10-30",
+    "distance": 55886.5,
+    "elevation_gain": 85.0,
+    "id": "20794264354",
+    "moving_time": 6917.0,
+    "name": "Zwift - Active Recovery",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-30T17:17:34Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

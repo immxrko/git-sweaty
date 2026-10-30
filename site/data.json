@@ -4940,6 +4940,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/20778913394",
       "year": 2026
+    },
+    {
+      "date": "2026-10-30",
+      "hour": 17,
+      "name": "Zwift - Active Recovery",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20794264354",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8617,6 +8626,15 @@
           "distance": 33618.3,
           "elevation_gain": 53.0,
           "moving_time": 3861.0
+        },
+        "2026-10-30": {
+          "activity_ids": [
+            "20794264354"
+          ],
+          "count": 1,
+          "distance": 55886.5,
+          "elevation_gain": 85.0,
+          "moving_time": 6917.0
         }
       },
       "Walk": {
@@ -9871,7 +9889,7 @@
       }
     }
   },
-  "generated_at": "2026-10-29T20:03:59.943636+00:00",
+  "generated_at": "2026-10-30T19:51:02.475059+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
