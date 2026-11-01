@@ -4949,6 +4949,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20794264354",
       "year": 2026
+    },
+    {
+      "date": "2026-10-31",
+      "hour": 20,
+      "name": "Gewichtstraining am Abend",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/20809177519",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9773,6 +9782,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3342.0
+        },
+        "2026-10-31": {
+          "activity_ids": [
+            "20809177519"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3689.0
         }
       },
       "Workout": {
@@ -9889,7 +9907,7 @@
       }
     }
   },
-  "generated_at": "2026-10-31T19:06:24.957082+00:00",
+  "generated_at": "2026-11-01T19:22:20.464230+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
