@@ -7265,5 +7265,31 @@
     "start_date_local": "2026-11-08T17:09:53Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-09",
+    "distance": 65948.8,
+    "elevation_gain": 100.0,
+    "id": "20922699689",
+    "moving_time": 7518.0,
+    "name": "Zwift - Aerobic Overload",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-09T16:28:01Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-09",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20924330946",
+    "moving_time": 4999.0,
+    "name": "Gewichtstraining am Abend",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-11-09T19:11:48Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
