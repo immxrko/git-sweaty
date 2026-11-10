@@ -7291,5 +7291,18 @@
     "start_date_local": "2026-11-09T19:11:48Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-11-10",
+    "distance": 1200.0,
+    "elevation_gain": 0.0,
+    "id": "20934004287",
+    "moving_time": 1361.0,
+    "name": "Schwimmen am Nachmittag",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-11-10T14:52:45Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
