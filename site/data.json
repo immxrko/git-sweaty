@@ -5057,6 +5057,15 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/20934004287",
       "year": 2026
+    },
+    {
+      "date": "2026-11-11",
+      "hour": 19,
+      "name": "3x1000@3:55",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20951065362",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7421,6 +7430,15 @@
           "distance": 8545.9,
           "elevation_gain": 37.0,
           "moving_time": 2827.0
+        },
+        "2026-11-11": {
+          "activity_ids": [
+            "20951065362"
+          ],
+          "count": 1,
+          "distance": 7288.2,
+          "elevation_gain": 34.0,
+          "moving_time": 2245.0
         }
       },
       "Soccer": {
@@ -10105,7 +10123,7 @@
       }
     }
   },
-  "generated_at": "2026-11-10T21:12:05.532606+00:00",
+  "generated_at": "2026-11-11T21:44:26.160564+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
