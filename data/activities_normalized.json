@@ -7343,5 +7343,18 @@
     "start_date_local": "2026-11-14T17:35:20Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-15",
+    "distance": 5018.2,
+    "elevation_gain": 11.0,
+    "id": "20993959891",
+    "moving_time": 1190.0,
+    "name": "DOUBLE 5K",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-15T10:21:14Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
