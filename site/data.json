@@ -5111,6 +5111,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/21036514465",
       "year": 2026
+    },
+    {
+      "date": "2026-11-22",
+      "hour": 10,
+      "name": "Lauf am Morgen",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/21081756461",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7502,6 +7511,15 @@
           "distance": 5018.2,
           "elevation_gain": 11.0,
           "moving_time": 1190.0
+        },
+        "2026-11-22": {
+          "activity_ids": [
+            "21081756461"
+          ],
+          "count": 1,
+          "distance": 10963.8,
+          "elevation_gain": 52.0,
+          "moving_time": 4008.0
         }
       },
       "Soccer": {
@@ -10213,7 +10231,7 @@
       }
     }
   },
-  "generated_at": "2026-11-21T20:46:24.537715+00:00",
+  "generated_at": "2026-11-22T20:55:55.879162+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/172056440",
   "repo": "immxrko/git-sweaty",
